@@ -37,16 +37,10 @@ def save_category_to_files(category_name, folder, limit=None):
                     print(f"Unexpected error: {e}")
 
 
-#save_category_to_files(f"Category:Cardiology", f"medical",limit=None)
-#save_category_to_files(f"Category:Bacteriology", f"medical",limit=None)
-#save_category_to_files(f"Category:Gastroenterology", f"medical",limit=None)
-#save_category_to_files(f"Category:Dentistry", f"medical",limit=None)
-#save_category_to_files(f"Category:Pediatrics", f"medical",limit=None)
-#save_category_to_files(f"Category:Virology", f"medical",limit=None)
-#save_category_to_files(f"Category:Women%27s_health", f"medical",limit=None)
+
 save_category_to_files(f"Category:Medical_terminology", f"medical",limit=None)
 
-# save_category_to_files(f"Category:Geography", "non_medical",limit=None)
-# save_category_to_files(f"Category:History", "non_medical",limit=None)
-# save_category_to_files(f"Category:Sports", "non_medical",limit=None)
-# save_category_to_files(f"Category:Animals", "non_medical",limit=None)
+save_category_to_files(f"Category:Geography", "non_medical",limit=None)
+save_category_to_files(f"Category:History", "non_medical",limit=None)
+save_category_to_files(f"Category:Sports", "non_medical",limit=None)
+save_category_to_files(f"Category:Animals", "non_medical",limit=None)
