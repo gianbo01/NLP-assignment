@@ -32,3 +32,5 @@ fraction of the occurences of i-word among all words in the bag of words of the 
 $$ P\left( w_i \middle| c_j \right) = \frac{count(w_i, c_j)}{\sum_{w \in V} count(w, c_j)}$$ 
 
 then it assignes the class with the maximum logaritmical sum to the input text
+
+The performance of the code and the accuracy can change according the number of the file per class loaded and the number of words
