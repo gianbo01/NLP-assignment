@@ -33,4 +33,11 @@ $$ P\left( w_i \middle| c_j \right) = \frac{count(w_i, c_j)}{\sum_{w \in V} coun
 
 then it assignes the class with the maximum logaritmical sum to the input text
 
-The performance of the code and the accuracy can change according the number of the file per class loaded and the number of words
+### Performance
+The performance of the code and the results can change according the number of the files per class loaded,the number and type of words or the high presence of non medical words in the medical bag of words.
+In this case it loads 1098 medical documents and 900 non medical documents.
+
+The code is tested with 10 different files from different wikipedia articles and these are the results:
+* Accuracy -> 80.0%
+* Precision -> 71.42857142857143%
+* Recall -> 100.0%
