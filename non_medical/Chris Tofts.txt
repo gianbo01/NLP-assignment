@@ -1,0 +1,17 @@
+Chris Tofts
+
+Chris M. N. Tofts (born 1964) is an English computer scientist.
+
+Education
+Chris Tofts studied mathematics as an undergraduate at Clare College, Cambridge, followed by a Diploma in Computer Science from the same college. He went on to do a PhD supervised by Robin Milner in the Laboratory for Foundations of Computer Science at the University of Edinburgh, Scotland.
+
+Career
+Tofts' postdoctorate research saw some of the first applications of process algebra to the study of the behaviour of animals and disease processes, which led to his interest in the correctness of simulation models.Tofts held lectureships at Swansea University (1992–94), the University of Manchester (1994–96), and the University of Leeds  (1996–99). From 1999 to 2008 he was a scientist at Hewlett-Packard (HP) Research Laboratories in the UK. From 2008 to 2011 he was the Chief Mathematics Officer of Concinnitas Ltd before returning to HP.
+Chris Tofts is a visiting Professor of Computer Science at Swansea University. He is a Fellow of the British Computer Society and Fellow of the  Institute of Mathematics and its Applications, as well as a past President of the BCTCS.
+
+Books
+Chris Tofts, Concurrency, Complexity and Performance, Springer, 2007. ISBN 0-387-95438-4.
+
+References
+External links
+Chris Tofts — Publications and Patents

@@ -1,0 +1,120 @@
+Transdermal patch
+
+A transdermal patch is a medicated adhesive patch that is placed on the skin to deliver a specific dose of medication through the skin and into the bloodstream. An advantage of a transdermal drug delivery route over other types of medication delivery (such as oral, topical, intravenous, or intramuscular) is that the patch provides a controlled release of the medication into the patient, usually through either a porous membrane covering a reservoir of medication or through body heat melting thin layers of medication embedded in the adhesive. The main disadvantage to transdermal delivery systems stems from the fact that the skin is a very effective barrier; as a result, only medications whose molecules are small enough to penetrate the skin can be delivered by this method. The first commercially available prescription patch was approved by the U.S. Food and Drug Administration in December 1979. These patches administered scopolamine for motion sickness.In order to overcome restriction from the skin, researchers have developed microneedle transdermal patches (MNPs), which consist of an array of microneedles, which allows a more versatile range of compounds or molecules to be passed through the skin without having to micronize the medication beforehand. MNPs offer the advantage of controlled release of medication and simple application without medical professional assistance required. With advanced MNPs technology, drug delivery can be specified for local usage, for example skin whitener MNPs that are applied to the face. Many types of MNPs have been developed to penetrate tissues other than skin, such as internal tissues of the mouth and digestive tract. These promote faster and more direct delivery of the molecule to the targeted area.
+
+Applications
+The highest selling transdermal patch in the United States of America is the nicotine patch, which releases nicotine in controlled doses to help with cessation of tobacco smoking. The first commercially available vapour patch to reduce smoking was approved in Europe in 2007.
+Two opioid medications used to provide round-the-clock relief for severe pain are often prescribed in patch form, fentanyl CII (marketed as Duragesic) and buprenorphine CIII (marketed as BuTrans).
+Hormonal patches:
+Estrogen patches are sometimes prescribed to treat menopausal symptoms (as well as post-menopausal osteoporosis) and to transgender women as a type of hormone replacement therapy.
+Contraceptive patches (marketed as Ortho Evra or Evra) and
+Testosterone CIII patches for both men (Androderm) and women (Intrinsa).
+Nitroglycerin patches are sometimes prescribed for the treatment of angina in lieu of sublingual pills.
+Transdermal scopolamine is commonly used as a treatment for motion sickness.
+The anti-hypertensive drug clonidine is available in transdermal patch form.
+Emsam, a transdermal form of the MAOI selegiline, became the first transdermal delivery agent for an antidepressant approved for use in the U.S. in March 2006.
+Daytrana, the first methylphenidate transdermal delivery system for the treatment of attention deficit hyperactivity disorder (ADHD), was approved by the FDA in April 2006.
+Secuado, a transdermal form of the atypical antipsychotic asenapine, was approved by the FDA in October 2019.
+5-Hydroxytryptophan (5-HTP) can also be administered through a transdermal patch, which was launched in the United Kingdom in early 2014.
+Rivastigmine, an Alzheimer's treatment medication, was released in patch form in 2007 under the brand name Exelon.
+In December 2019, Robert S. Langer and his team developed and patented a technique whereby transdermal patches could be used to label people with invisible ink in order to store medical information subcutaneously. This was presented as a boon to "developing nations" where lack of infrastructure means an absence of medical records. The technology uses a "quantum dot dye that is delivered along with a vaccine".
+Caffeine patches, designed to deliver caffeine to the body through the skin.
+
+Adverse events
+In 2005, the FDA announced that they were investigating reports of death and other serious adverse events related to narcotic overdose in patients using Duragesic, the fentanyl transdermal patch for pain control. The Duragesic product label was subsequently updated to add safety information in June 2005.
+In 2007, Shire and Noven Pharmaceuticals, manufacturers of the Daytrana ADHD patch, announced a voluntary recall of several lots of the patch due to problems with separating the patch from its protective release liner. Since then, no further problems with either the patch or its protective packaging have been reported.
+In 2008, two manufacturers of the fentanyl patch, ALZA Pharmaceuticals (a division of major medical manufacturer Johnson & Johnson) and Sandoz, subsequently issued a recall of their versions of the patch due to a manufacturing defect that allowed the gel containing the medication to leak out of its pouch too quickly, which could result in overdose and death. As of March 2009, Sandoz—now manufactured by ALZA—no longer uses gel in its transdermal fentanyl patch; instead, Sandoz-branded fentanyl patches use a matrix/adhesive suspension (where the medication is blended with the adhesive instead of held in a separate pouch with a porous membrane), similar to other fentanyl patch manufacturers such as Mylan and Janssen.
+In 2009, the FDA announced a public health advisory warning of the risk of burns during MRI scans from transdermal drug patches with metallic backings. Patients should be advised to remove any medicated patch prior to an MRI scan and replace it with a new patch after the scan is complete.
+In 2009, an article in Europace journal detailed stories of skin burns that occurred with transdermal patches that contain metal (usually as a backing material) caused by shock therapy from external as well as internal cardioverter defibrillators (ICD).
+
+Components
+The main components to a transdermal patch are:
+
+Liner - Protects the patch during storage. The liner is removed prior to use.
+Drug - Drug solution in direct contact with release liner
+Adhesive - Serves to adhere the components of the patch together along with adhering the patch to the skin
+Membrane - Controls the release of the drug from the reservoir and multi-layer patches
+Backing - Protects the patch from the outer environment
+Penetration enhancer - These are permeation promoters for drugs, which increase delivery of drug.
+Matrix Filler - Provides bulk to the matrix, and some act as matrix stiffening agents.Other components include stabilizers (antioxidants), preservatives etc.
+
+Types
+There are five main types of transdermal patches.
+
+Single-layer drug-in-adhesive
+The adhesive layer of this system also contains the drug. In this type of patch the adhesive layer not only serves to adhere the various layers together, along with the entire system to the skin, but is also responsible for the releasing of the drug. The adhesive layer is surrounded by a temporary liner and a backing. It is characterized by the inclusion of the drug directly within the skin-contacting adhesive placed onto the epidermis.
+
+Multi-layer drug-in-adhesive
+The multi-layer drug-in-adhesive patch is similar to the single-layer system; the multi-layer system is different, however, in that it adds another layer of drug-in-adhesive, usually separated by a membrane (but not in all cases). One of the layers is for immediate release of the drug, and the other layer is for controlled release of the drug from the reservoir. This patch also has a temporary liner-layer and a permanent backing. The drug release from this depends on membrane permeability and diffusion of drug molecules.
+
+Reservoir
+Unlike the single-layer and multi-layer drug-in-adhesive systems, the reservoir transdermal system has a separate drug layer. The drug layer is a liquid compartment containing a drug solution or suspension separated by the adhesive layer. The drug reservoir is totally encapsulated in a shallow compartment molded from a drug-impermeable metallic plastic laminate, with a rate-controlling membrane made of a polymer like vinyl acetate on one surface. This patch is also backed by the backing layer. In this type of system the rate of release is zero order. Reservoir patches should not be cut (with the exception of hyoscine hyrdobromide 1.5mg patch according to the British National Formulary for Children).
+
+Matrix
+The matrix system has a drug layer of a semisolid matrix containing a drug solution or suspension. The adhesive layer in this patch surrounds the drug layer, partially overlaying it. The release rate is determined by the physcial properties of the matrix. Also known as a monolithic device. Limited research indicates that it may be possible to cut some matrix patches to provide lower doses, provided the cut part not immediately used is stored at cool temperatures.
+
+Vapour patch
+In a vapour patch, the adhesive layer not only serves to adhere the various layers together but also to release vapour. Vapour patches release essential oils for up to 6 hours and are mainly used for decongestion. Other vapour patches on the market improve quality of sleep or aid in smoking cessation.
+
+Microneedle patch
+The microneedle patch (MNPs) is a type of transdermal patch that retains the advantages, but reduces the disadvantages, of basic transdermal patches. Embedding as many as 102-104 needles per square centimeter of patch, encapsulated or coated with intended drug, MNPs can easily pass skin tissue known as the stratum corneum that is roughly 20 μm in thickness, allowing up to the size macromolecule to pass. The development of MNPs is mainly because selective transdermal patch can deliver smaller size or micronized molecules such as nicotine and birth control that easily diffuse and penetrate the skin, but lack in delivering macro or large size molecules. The 100-1000 μm needles spread across the patch, making sure patients will not feel any discomfort from the patch. There are two types of needles used in MNPs, the first one is non-water-soluble needles made out of metal, ceramic, or polymer, and the second one is water-soluble needles made out of saccharides or soluble polymers.Other than skin patches, MNPs can also be engineered to deliver molecules in different tissues. Some that are under development include internal surfaces such as the mouth, vagina, gastrointestinal tract, and vascular wall; and external surfaces such as the skin, eyes, fingernails, anus, and scalp. This allows targeting a more specific area of wanted delivery, without having to solely rely on diffusion on blood flow like a normal transdermal patch.
+
+MNPs drug delivery
+As mentioned earlier, MNPs deliver more efficient delivery compared to topical or oral intake. In drug delivery study, researchers want to gain faster peak concentrations (Cmax) in MNPs compared to other methods. Study shows that MNPs reach peak concentration as fast as 20 minutes (tmax), while oral intake reaches peak concentration in one hour. Furthermore, the Cmax from MNPs is higher up to six times, compared to oral intake. Making the delivery fast and the body gets the most concentration of intended drugs. This value is only matched with direct injection, but with skin trauma and people with needle phobia, MNPs might be an alternative to reach roughly the same time and concentration.
+In order to get more direct local delivery, MNPs can be used in different tissues other than the skin. In Table 1, there are at least five internal surfaces that MNPs have been studied for its delivery and four other external surfaces other than the skin.
+
+Types of microneedle
+There are many types of microneedle that are distinguished by the shape and other characteristics. The types include: Dissolvable MNPs, solid non-soluble MNPs, and hollow MNPs. Different MNPs may be chosen depending on the situation and the drug properties.
+
+Soluble or dissolvable MNPs
+One of the types of MNPs are water-soluble needles made out of soluble polymers or saccharide. However, dissolvable needles cannot efficiently deliver drugs to the dermal layer. Drug maximum concentration cannot be carried out to the skin, as the needles will dissolve beforehand. Fortunately, researchers have developed a water-insoluble backing layer, making the needle last longer in the human body environment. This design enables efficient delivery of more than 90% of the drug within 5 minutes of application of MNPs to the skin.
+
+Non-soluble or undissolvable MNPs
+Other than dissolvable MNPs, needles can also be made out of metal or ceramic that will not dissolve in the body environment. These coated drug needles can deliver consistent concentration of drugs without the needles dissolving in the body. This kind of MNPs has better performance, but compared to the soluble MNPs, metal or ceramic MNPs are the older version of MNPs. Even if the patches are small, the metal or ceramic MNPs may cause several waste issues. Recycling the metal and ceramic are very hard, as the quantity is very small to overcome the cost to recycle. That is why researchers try to develop the dissolvable MNPs with similar characteristic and performance of drug delivery in non-soluble MNPs.
+
+Hollow MNPs
+Among all of the MNPs, hollow needles allow a bigger amount of delivery up to 200μL. The mechanism mimics the operation of a hypodermic, but the fabrication is hard and complex. The hollow needles introduce a potential failure if the insertion is improper. That is why, among the others, hollow MNPs are the least popular because of the complex manufacturing and applying process.
+
+Advantages
+The MNPs may puncture the skin surface, enabling rapid onset of drug bypassing directly into the dermal capillaries.
+Pain-free.
+Can be localized to provide direct access to the intended tissues.
+Less dependent on skilled medical workers, as MNPs can be administered safely by the patient themself.
+Some drugs have poor solubility in water, with MNPs insoluble drugs and compounds can be directly "injected" to the dermal layer. Further enhancing the transdermal delivery of insoluble drugs.
+Better safety compared to needle and syringe method (needlestick). Less waste, eliminate pathogen transmission, and injuries. At least 300,000 needlestick related injuries occurred in the US annually, with disposal contribute to almost half of the injuries.
+
+Application
+MNPs as vaccine delivery platform
+MNPs vaccination might be an alternative from direct injection. Able to deliver bigger molecules than transdermal patch, MNPs can also deliver bioactive molecules with different physical sizes. Meaning that inactive virus or pathogen can be introduced in the body without discomfort or skin irritation from conventional injection. Possibly it can also reduce the cost of storage that usually needs to be transported in a particular temperature and condition. Stated in cdc.gov website, Mark Prausnitz, co-developer of the microneedle, says "A major advantage of the microneedle patch would be the ease of delivery." The MNPs are small and thin compared to bottles of vial, making it possible to transport in massive quantities in a single trip. Medical waste such as syringes and dirty needles are also eliminated, reducing the possibility of pathogen transmission of blood-borne disease in rural areas.In a study, measles coated MNPs might be resistant to higher temperature compared to vial transport. Higher temperature resistance is a safe bet in low income countries, where there is no such luxury for refrigeration. Furthermore, the delivery of the vaccine is controlled by the MNPs. Less requiring highly trained medical workers in developing countries to apply the vaccine. However, the study in MNPs measles vaccine is still under development, but opening possibilities in the future for other types of vaccines
+
+MNPs to reduce obesity
+Obesity is one of the most popular topics in developed countries nowadays. Researchers have tried to reduce obesity rate using certain drugs, one in particular known as browning compound. In order to target a certain group of fat tissue, MNPs is utilized and shows that the patch can deliver browning nano particles to a certain group of fat tissue. By doing so, the drug's side effects can be reduced as MNPs are localized. The result shows that in mice experiments in a four weeks period, the white fat of the mice shrunk. Furthermore, an improved metabolism in the mice also signifies that the experiment to reduce obesity using MNPs might be worth testing in the future. If the research has been proved successful, MNPs treatment might be a great choice, as direct injection obesity drugs need medical professional assistance. While here, MNPs can be done by the patient without special skills.
+
+MNPs for cosmetic and skin care
+Skin treatment including face whitening agent and dark eye circles serum can also incorporated in MNPs. Its localized property enhance skin whitening delivery to the face area. Even a very specific spot like dark eye circles. By measuring the melanin (dark or black pigment found on the skin) index, subjects that are treated with whitening agents coated in MNPs show lower melanin index, compared to the whitening essence (topical) group. The treatment lasts for eight weeks, and the result shows MNPs might be a promising cosmetic vector because MNPs does not introduce skin irritation and can be engineered to localize or specific parts of the body.
+
+Safety
+Micro Needle Patch (MNPs) might be another choice of safety compared to direct injection using candlestick. Not only safety in handling, MNPs also promote better disposal and prevent pathogen transmission. Under extraordinary circumstances, MNPs may cause complication mentioned below.
+
+Skin irritation
+Under rare circumstances, MNPs may cause skin irritation on people with sensitive skin. Majority of studies show that MNPs do not irritate the skin, but does not close the possibility for sensitive skin group of people.
+
+Improper application
+Especially for hollow MNPs, the not so stiff needles may cause unnecessary puncture to the skin outer layer. Thus may cause trauma to the skin and restricting the performance and flow of the drugs to the body.
+
+Future development
+Because most of MNPs applications are still under development, it is important to note the long effect of the efficiency of the drug deliveries. Furthermore, more research is needed to get information of what molecule can be delivered using MNPs. Disposal is also an important topic, as the small plastic backing may contribute to water pollution remembering the compact size can be easily carried away by wind and water without proper disposal.
+
+Regulatory aspects
+A transdermal patch is classified by the U.S. Food and Drug Administration as a combination product, consisting of a medical device combined with a drug or biological product that the device is designed to deliver. Prior to sale in the United States, any transdermal patch product must apply for and receive approval from the Food and Drug Administration, demonstrating safety and efficacy for its intended use.
+
+See also
+IOMAI
+
+References
+Further reading
+"Transderm Scōp" (PDF). Food and Drug Administration. 1998. Archived from the original (PDF) on August 10, 2007. Retrieved February 12, 2007.Ita K. Chapter 1 - Transcutaneous drug administration. In: Ita K, editor. Transdermal Drug Delivery: Academic Press; 2020. p. 1-7.
+
+External links
+The 10th US-Japan Symposium on Drug Delivery Systems
+Using Skin Patch Medicines Safely

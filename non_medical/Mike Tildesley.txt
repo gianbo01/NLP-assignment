@@ -1,0 +1,13 @@
+Mike Tildesley
+
+Michael J. Tildesley is Professor in Infectious disease modelling at the University of Warwick. He is a member of the Scientific Pandemic Influenza Modelling group (SPI-M) of SAGE.
+
+Education
+Born in Keighley, West Yorkshire, Tildesley went to school in the city of York and studied mathematics at Clare College, Cambridge. He read for his Ph.D. in 2003 with a thesis on Astrophysical Fluid Dynamics under the supervision of Nigel Weiss. He later moved to the University of Warwick and transitioned into the field of infectious disease modeling, a field he has worked in ever since.
+
+Research
+Tildesly's main area of research is the development of mathematical models to simulate the spread of livestock and zoonotic diseases. He has a particular interest in the targeting of control in the event of an outbreak to minimize the spread of disease.
+
+References
+External links
+Tildesley talking about epidemics on YouTube

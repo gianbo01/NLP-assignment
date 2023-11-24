@@ -1,0 +1,26 @@
+Intradermal injection
+
+Intradermal injection (also intracutaneous or intradermic, abbreviated as ID) is a shallow or superficial injection of a substance into the dermis, which is located between the epidermis and the hypodermis. For certain substances, administration via an ID route can result in a faster systemic uptake compared with subcutaneous injections, leading to a stronger immune response to vaccinations, immunology and novel cancer treatments, and faster drug uptake. Additionally, since administration is closer to the surface of the skin, the body's reaction to substances is more easily visible. However, due to complexity of the procedure compared to subcutaneous injection and intramuscular injection, administration via ID is relatively rare, and is only used for tuberculosis and allergy tests, Monkeypox vaccination, and certain therapies.
+
+Vaccine dose sparing
+For vaccination many clinical studies have proven efficacy of ID administration over subcutaneous (SC), intramuscular (IM) or other routes of administration.  Since the COVID19 pandemic (2020) EMA and FDA promote the use of ID route of administration in case of possible vaccine shortage, for example during the Monkeypox outbreak in 2022 where 1/5th intradermal (fractional) dosing was advised, due to a risk of vaccine shortage.
+
+Injection sites
+Common injection sites include the inner surface of the forearm, the upper back, deltoid, thigh, and under the shoulder blade. Injections sites are often chosen for skin thickness, preferring thicker skin.
+
+Equipment
+Equipment include syringes calibrated in tenths and hundredths of a milliliter. The dosage given is usually less than 0.5 mL, less than given subcutaneously or intramuscularly. A 1⁄4-to-1⁄2-inch-long (6 to 13 mm) and 26 or 27 gauge thick needle is used.
+
+Mantoux procedure
+The traditional procedure of ID injection known as the Mantoux procedure (as used in the Mantoux test) involves injecting at angle of administration of 5 to 15 degrees angle, almost against the skin. With bevel (opening) side up, the needle is inserted about 1⁄8 inch (3 mm) with the entire bevel inside and injected while watching for a small wheal or blister to appear.
+
+Intradermic needles
+Traditionally hypodermic needles are used for intradermal injections, instead of intradermic needles. Various microneedle technology researchers worldwide develop new devices and therapies to overcome typical usability issues associated with the traditional Mantoux procedure. Most intradermic needles require a change in injection technique or instruction to use, for example a perpendicular intradermal injection.Immune reaction tests sometimes use a set of non-hollow needles for scarification, shallowly abrading the skin. The inoculation is limited to the dermis.
+
+See also
+Subcutaneous injection
+Intramuscular injection
+Intravenous injection
+
+
+== References ==

@@ -1,0 +1,9 @@
+Isotropic formulations
+
+Isotropic formulations are thermodynamically stable microemulsions possessing lyotropic liquid crystal properties. They inhabit a state of matter and physical behaviour somewhere between conventional liquids and that of solid crystals. Isotropic formulations are amphiphillic, exhibiting selective synchronicity with both the water and lipid phases of the substrate to which they are applied. Most recently, isotropic formulations have been used extensively in dermatology for drug delivery.
+
+Uses
+While it is well established that the skin provides an ideal site for the administration of local and systemic drugs, it presents a formidable barrier to the permeation of most substances. Isotropic formulations have been used to deliver drugs locally and systemically via the skin appendages, intercellular and transcellular routes.
+
+
+== References ==

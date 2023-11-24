@@ -1,0 +1,287 @@
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 1/7
+Procedural sedation and
+analgesia
+MeSH D016292
+MedlinePlus 007409
+Procedural sedation and analgesia
+Procedural sedation and analgesia (PSA) is a technique
+in which a sedating/dissociative medication is given, usually
+along with an analgesic medication, in order to perform nonsurgical procedures on a patient. The overall goal is to induce a
+decreased level of consciousness while maintaining the
+patient's ability to breathe on their own. Airway protective
+reflexes are not compromised by this process [1] and therefore endotracheal intubation is not
+required. PSA is commonly used in the emergency department, in addition to the operating room.
+This technique is often used in the emergency department for the performance of painful or
+uncomfortable procedures. Common purposes include:
+laceration repair
+setting fractures
+draining abscesses
+reducing dislocations
+performing endoscopy
+for cardioversion[2]
+during various dental procedures
+during transesophageal echocardiogram
+and certain imaging or minor procedures where the patient is unable (or unwilling) to keep still
+—especially children
+There are no absolute reasons that immediately disqualify a patient from receiving PSA. However,
+a patient's age, medical comorbidities, or evidence of a difficult airway are important
+considerations.
+Although there is no age limit for PSA, the elderly have a greater chance of complications such as
+longer than intended sedation time, increased sensitivity to medications, adverse effects of
+medications, and higher than expected drug levels due to difficulty clearing the drugs. To help
+reduce risk of complications, consider a less aggressive approach to PSA, including starting with a
+smaller dose than given for non-elderly patients, giving the medication slowly, giving repeat doses
+of the medications less often.[3]
+Medical uses
+Contraindications
+Age
+Comorbidities
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 2/7
+Patients with serious medical conditions are at greater chance for negative side effects after
+receiving PSA. Examples of comorbidities include heart failure, COPD, neuromuscular disease. Use
+the ASA Classification to predict a patient's risk for serious complications from PSA, such as
+hypotension or respiratory depression. Generally, patients with ASA Class III or greater are more
+likely to develop such complications. Similar to previously described, consider starting with a
+smaller dose, giving the medication slowly, and giving repeat doses of the medications less often to
+decrease risk of complications associated with comorbidities.[3]
+An airway is assessed by the patient's ability or the physician's ability to oxygenate (provide
+oxygen) or ventilate (exhale carbon dioxide). Examples of a difficult airway include a thick
+neck/obese patient, head and neck structural abnormalities, and lung disease. The problem is not
+that the patient will not respond appropriately to medications, as is the case with older patients or
+those with medical comorbidities, but that if there is a complication, it will be more difficult for the
+physician to protect the patient's airway and save them from complications. It is generally advised
+to consider alternatives to PSA if the patient is assessed to have a difficult airway. Measures such as
+reducing starting dose, giving drugs slowly, and redosing less frequently will not change risk of
+PSA complications in a patient with a difficult airway.[3]
+While procedural sedation is often used to avoid airway intervention, sedation is a continuum and
+a patient can easily slip into a deeper state. For this reason, a physician who is performing PSA
+should be prepared to care for a patient at least one level of sedation greater than that intended.[1]
+In order to do this, a practitioner must be able to recognize the level of sedation and understand
+the increasing cardiopulmonary risk that is associated with deeper sedation.[4]
+The American Society of Anesthesiologists defines the continuum of sedation as follows:[5]
+Minimal
+Sedation
+Moderate Sedation Deep Sedation General Anesthesia
+Responsiveness
+Normal to
+verbal stimulus
+Purposeful response to
+verbal or tactile
+stimulus
+Purposeful to
+repeated or painful
+stimulus
+Unarousable, even to
+painful stimulus
+Airway Unaffected
+No intervention
+required
+Intervention may be
+required
+Intervention often
+required
+Ventilation Unaffected Adequate May be inadequate
+Frequently
+inadequate
+Cardiovascular
+Function
+Unaffected Usually maintained Usually maintained May be impaired
+There is another type of sedation known as dissociative sedation. It causes profound amnesia but
+allows spontaneous respiration, cardiopulmonary stability, and airway reflexes are still intact.
+Ketamine is a commonly used drug that can cause this type of sedation.[4]
+Difficult airway
+Spectrum of Sedation
+Sedative agents
+Propofol
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 3/7
+Propofol[6]
+is a non-barbiturate derivative that is thought to act by stimulating inhibitory GABA
+receptors and blocking excitatory NMDA receptors. It takes 40 seconds for the effects of propofol
+to kick in, and effects last six minutes.[3] Propofol has both sedative and amnestic effects, but
+provides no analgesia. Adverse effects to look out for include hypotension (low blood pressure) and
+respiratory depression, manifested as mild drops in oxygen saturation levels. Propofol is also
+painful when administered intravenously, therefore, lidocaine is commonly used as a pretreatment
+to help decrease the pain associated with administering propofol. Additionally, it has antiemetic
+properties that are also useful in these types of procedures.[7]
+Etomidate is an imidazole derivative, commonly used for the induction of general anesthesia.
+Effects kick in almost immediately, within 5–15 seconds, and last 5–15 minutes.[3] Etomidate
+carries sedative effects only; it does not provide pain relief. Side effects of etomidate include
+myoclonus (involuntary muscle jerking) and respiratory depression. One of the major benefits of
+etomidate is that it does not cause cardiovascular or respiratory instability.[7] This makes it a
+potentially more preferable choice for those with already lower blood pressure.
+Midazolam[6]
+is a benzodiazepine that acts by stimulating inhibitory GABA receptors. Effects are
+seen within 2–5 minutes, and last 30–60 minutes.[7][3] Its main effect is anxiolysis, helping to
+reduce feelings of anxiety, and amnestic effects, helping the patient to forget memories associated
+with the procedure. It provides no analgesia, so it was commonly used with fentanyl for effective
+PSA prior to propofol and etomidate. Midazolam collects in the body's fatty tissues, so a possible
+complication includes prolonged sedation. As a result, the elderly, the obese, and those with kidney
+or liver disease are more vulnerable to prolonged sedation with midazolam. Respiratory depression
+is also associated with midazolam when given in high doses.
+Ketamine is a dissociative sedative, meaning it takes the patient into a dream-like level of
+consciousness. Effects occur within 30 seconds, and last 5–20 minutes.[7] Ketamine has sedative,
+analgesic, and amnestic properties, but most of its uses today are focused on analgesia. Some of the
+benefits of ketamine is that it does not compromise the patient's airway protective reflexes, keeps
+the upper airway muscle tone, and allows for spontaneous breathing. A common side effect of
+ketamine is emergence reactions. The patient may become disoriented, entranced, or experience
+hallucinations. Although usually benign, these reactions may also be frightening for the patient.
+Other reported complications include fast heart rate, elevated blood pressure, nausea, vomiting,
+and laryngospasm, but usually in the context of oropharyngeal manipulation.
+Etomidate
+Midazolam
+Ketamine
+Dexmedetomidine
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 4/7
+Dexmedetomidine is a more recent agent used in this process. It is an alpha-2 adrenergic agonist
+that causes sedation and does have some analgesic properties. It has minimal effect on respiratory
+function. It will affect cardiac function as the dose increases.[7]
+Opioids are used to suppress pain by acting primarily on μ-opioid receptors (MOR) in addition to
+various other opioid receptors located within the central nervous system. They will cause some
+dose dependent cardiopulmonary suppression.[7] They have addictive properties and have led to
+the opioid epidemic. When used for procedural sedation these are started at low dose then titrated
+to reach the desired effect.[1]
+Fentanyl is a synthetic opioid, 75-125 times stronger than morphine,[3] that acts by activating
+opioid receptors in the nervous system. Its effects begin in 2–3 minutes, and last 30–60 minutes.
+Fentanyl provides analgesia and sedative properties; it does not have any amnestic effects. It was
+commonly used with midazolam for effective PSA prior to propofol and etomidate. The major
+complication of fentanyl is respiratory depression, which can be made worse when given with other
+sedative agents.
+Ketamine, as stated above, has both analgesic and sedative properties and can be useful as an
+alternative analgesic agent; small doses of ketamine have been found to be safer than fentanyl
+when used in combination with propofol.[8]
+Any patient undergoing anaesthesia must be pre-assessed for risk using a classification system,
+such as the one devised by the American Society of Anesthesiologists (ASA). In addition to preassessment, the patients medical history should be taken with special attention to history of
+anaesthesia. These things contribute to the ASA physical status classification system. This system
+starts at ASA 1 which is a healthy individual and escalates to ASA 6 which is a brain dead
+individual.[4]
+It is safe to perform sedation in the emergency room on patients who are ASA 1 or 2.
+If the patient is ASA 3 or 4 additional resources might be needed, such as a person with more
+training in procedural sedation, an anesthesiologist.[1] Furthermore, before a qualified anesthesia
+professional performs PSA, an Informed consent should be completed.[4]
+Airway assessment is one of the most important parts of the physical exam when done as part of
+the pre-procedure work-up. There is always a risk that a patient is sedated more heavily than
+intended and consequently require some sort of airway intervention. Therefore, the anesthetist
+should perform an airway exam that includes a Mallampati score, mouth opening assessment, and
+Thyromental distance. If the patient is deemed to have a difficult airway, there should be adequate
+resources if airway intervention is required. These includes things like a Glidescope, fiberscope
+optic, and an intubating Laryngeal mask airway.
+[4]
+It is important to keep track of the patient's vital signs, especially oxygen saturation and blood
+pressure [1] when giving PSA to ensure adequate cardiopulmonary function. Monitors are also
+useful for PSA safety. These include cardiac monitoring such as electrocardiogram, pulse oximetry,
+blood pressure cuff, and an end tidal carbon dioxide monitor.[4][9] Deep sedation resulting in
+Analgesic agents
+Opioids
+Assessment
+Safety and Monitoring
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 5/7
+Patient being monitored following
+anesthesia
+respiratory depression can cause some quantitative changes to these monitors, hence why it is
+important to monitor them. One of the first things that can be seen is a rise in end tidal carbon
+dioxide. This happens well before a drop in oxygen saturation. Depending on the how substantial
+the respiratory depression, the physician can use supplemental oxygen or other airway
+interventions to stabilize the patient.[4] Visual assessment is also an important part of PSA. To
+quantify the level of consciousness, the physician uses different levels of stimulation and observes
+the patient's response.
+There is a theoretical concern that performing PSA on a patient with food in their stomach can
+increase the risk of aspiration. Currently, there is no evidence to suggest clinically significant risk
+of aspiration of stomach contents if performing PSA on a patient with recent food intake. In fact,
+there is evidence to suggest that fasting is not required to prevent aspiration in most cases.[10]
+However, when possible, fasting is still preferred.[1] For most agents, the patient should have had
+nothing to eat for at least six hours. Clear fluids can be allowed up to two hours before the
+procedure. One can consider using ketamine if there is a high risk of aspiration, given ketamine
+does not compromise protective airway reflexes. However, in the emergency department setting,
+PSA is usually administered without waiting the full six hours, unless there is clear evidence that
+the patient may not be able to maintain his/her airway on their own.[11]
+There are a few criteria for discharging a patient who has
+undergone procedural sedation. The recovery time for a patient
+to be ready for discharge varies but is typically 60–120
+minutes. The criteria are as follows:
+1. Patient must be stable from a cardiovascular standpoint
+and have an open airway.
+2. The patient should be easy to arouse and have intact
+reflexes such as a gag and cough reflex.
+3. They should be approaching their baseline in terms of
+talking and sitting up.
+4. The patient should be properly hydrated.
+5. In a special population patient, such as a very young or
+mentally disabled patient, they should be about as
+responsive as they were pre-sedation.[12]
+PSA can cause several complications. These include allergic reactions, over-sedation, respiratory
+depression, and hemodynamic effects. These typically depend on the sedative agent used. Some
+agents are more likely to cause complications than others, but all sedative agents can cause
+complications if not used properly. Titration is a common technique used to reduce these
+complications. Additionally, some agents have antagonists, reversal agents, that can be used to
+Aspiration risk
+Discharge criteria
+Complications
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 6/7
+reverse the effects or reduce the amount of sedation. Additionally, a person is assigned to monitor
+the status of the patient and should be able to recognize the complications of PSA. Their ability to
+alert others and respond accordingly reduces complications.[1]
+Some resistance to sedation techniques used outside the operating room by non-anesthetists has
+been voiced.[13]
+1. Walls, Ron M., MD; Hockberger, Robert S., MD; Gausche-Hill, Marianne, MD, FACEP, FAAP,
+FAEMS (2018). Rosen's Emergency Medicine: Concepts and Clinical Practice. Ninth Edition.
+Elsevier.
+2. "BestBets: Procedural Sedation for Cardioversion" (https://bestbets.org/bets/bet.php?id=977).
+bestbets.org.
+3. Frank, Robert. "Procedural sedation in adults outside the operating room" (https://www.uptodat
+e.com/contents/procedural-sedation-in-adults-outside-the-operating-room). Uptodate.
+4. Stone, C. Keith (2017). "Procedural Sedation and Analgesia" (https://accessmedicine.mhmedic
+al.com/content.aspx?bookid=2172&sectionid=165058258&jumpsectionid=165058288).
+CURRENT Diagnosis & Treatment: Emergency Medicine. McGraw-Hill Education.
+5. "Continuum of Depth of Sedation; Definition of General Anesthesia and Levels of
+Sedation/Analgesia" (https://web.archive.org/web/20101027151443/http://asahq.org/For-Memb
+ers/Clinical-Information/~/media/For%20Members/documents/Standards%20Guidelines%20St
+mts/Continuum%20of%20Depth%20of%20Sedation.ashx). American Society of
+Anesthesiologists (ASA). 2009. Archived from the original (http://www.asahq.org/For-Members/
+Clinical-Information/~/media/For%2520Members/documents/Standards%2520Guidelines%252
+0Stmts/Continuum%2520of%2520Depth%2520of%2520Sedation.ashx) on 2010-10-27.
+Retrieved 2010-10-21.
+6. Hohl, Corinne Michèle; Sadatsafavi, Mohsen; Nosyk, Bohdan; Anis, Aslam Hayat (16 January
+2008). "Safety and Clinical Effectiveness of Midazolam versus Propofol for Procedural
+Sedation in the Emergency Department: A Systematic Review". Academic Emergency
+Medicine. 15 (1): 1–8. doi:10.1111/j.1553-2712.2007.00022.x (https://doi.org/10.1111%2Fj.1553
+-2712.2007.00022.x). PMID 18211306 (https://pubmed.ncbi.nlm.nih.gov/18211306).
+7. Miller, Ronald D.; Eriksson, Lars I.; Fleisher, Lee A.; Wiener-Kronish, Jeanine P.; Cohen, Neal
+H.; Young, William L. (2014). Miller's Anesthesia. Elsevier Health Sciences. ISBN 978-0-323-
+28011-2.
+8. Messenger, David W.; Murray, Heather E.; Dungey, Paul E.; van Vlymen, Janet; Sivilotti, Marco
+L.A. (October 2008). "Subdissociative-dose Ketamine versus Fentanyl for Analgesia during
+Propofol Procedural Sedation: A Randomized Clinical Trial" (https://doi.org/10.1111%2Fj.1553-
+2712.2008.00219.x). Academic Emergency Medicine. 15 (10): 877–886. doi:10.1111/j.1553-
+2712.2008.00219.x (https://doi.org/10.1111%2Fj.1553-2712.2008.00219.x). PMID 18754820 (h
+ttps://pubmed.ncbi.nlm.nih.gov/18754820). S2CID 6455843 (https://api.semanticscholar.org/Co
+rpusID:6455843).
+9. Miner, James R.; Burton, John H. (August 2007). "Clinical Practice Advisory: Emergency
+Department Procedural Sedation With Propofol". Annals of Emergency Medicine. 50 (2): 182–
+187.e1. doi:10.1016/j.annemergmed.2006.12.017 (https://doi.org/10.1016%2Fj.annemergmed.
+2006.12.017). PMID 17321006 (https://pubmed.ncbi.nlm.nih.gov/17321006).
+10. Green, S.M.; Mason, K.P.; Krauss, B.S. (March 2017). "Pulmonary aspiration during procedural
+sedation: a comprehensive systematic review" (https://doi.org/10.1093%2Fbja%2Faex004).
+British Journal of Anaesthesia. 118 (3): 344–354. doi:10.1093/bja/aex004 (https://doi.org/10.10
+93%2Fbja%2Faex004). PMID 28186265 (https://pubmed.ncbi.nlm.nih.gov/28186265).
+Controversies
+References
+20/11/23, 21:18 Procedural sedation and analgesia - Wikipedia
+https://en.wikipedia.org/wiki/Procedural_sedation_and_analgesia 7/7
+11. "BestBets: Does the time of fasting affect complication rates during ketamine sedation" (https://
+bestbets.org/bets/bet.php?id=866). bestbets.org.
+12. Berger, Jessica; Koszela, Keri (2018). The Harriet Lane Handbook. Elsevier.
+13. Krauss, Baruch; Green, Steven M (March 2006). "Procedural sedation and analgesia in
+children". The Lancet. 367 (9512): 766–780. doi:10.1016/S0140-6736(06)68230-5 (https://doi.o
+rg/10.1016%2FS0140-6736%2806%2968230-5). PMID 16517277 (https://pubmed.ncbi.nlm.ni
+h.gov/16517277). S2CID 19960762 (https://api.semanticscholar.org/CorpusID:19960762).
+Brown TB, Lovato LM, Parker D (January 2005). "Procedural sedation in the acute care
+setting" (http://www.aafp.org/afp/20050101/85.html). Am Fam Physician. 71 (1): 85–90.
+PMID 15663030 (https://pubmed.ncbi.nlm.nih.gov/15663030).
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Procedural_sedation_and_analgesia&oldid=1184322638"
+External links

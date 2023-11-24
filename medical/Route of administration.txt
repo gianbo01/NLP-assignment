@@ -1,0 +1,120 @@
+Route of administration
+
+In pharmacology and toxicology, a route of administration is the way by which a drug, fluid, poison, or other substance is taken into the body.Routes of administration are generally classified by the  location at which the substance is applied.  Common examples include oral and intravenous administration.  Routes can also be classified based on where the target of action is.  Action may be topical (local), enteral (system-wide effect, but delivered through the gastrointestinal tract), or parenteral (systemic action, but is delivered by routes other than the GI tract). Route of administration and dosage form are aspects of drug delivery.
+
+Classification
+Routes of administration are usually classified by application location (or exposition).
+The route or course the active substance takes from application location to the location where it has its target effect is usually rather a matter of pharmacokinetics (concerning the processes of uptake, distribution, and elimination of drugs). Exceptions include the transdermal or transmucosal routes, which are still commonly referred to as routes of administration.
+The location of the target effect of active substances are usually rather a matter of pharmacodynamics (concerning e.g. the physiological effects of drugs). An exception is topical administration, which generally means that both the application location and the effect thereof is local.Topical administration is sometimes defined as both a local application location and local pharmacodynamic effect, and sometimes merely as a local application location regardless of location of the effects.
+
+By application location
+Enteral/gastrointestinal route
+Through the gastrointestinal tract is sometimes termed enteral or enteric administration (literally meaning 'through the intestines'). Enteral/enteric administration usually includes oral (through the mouth) and rectal (into the rectum) administration, in the sense that these are taken up by the intestines. However, uptake of drugs administered orally may also occur already in the stomach, and as such gastrointestinal (along the gastrointestinal tract) may be a more fitting term for this route of administration. Furthermore, some application locations often classified as enteral, such as sublingual (under the tongue) and sublabial or buccal (between the cheek and gums/gingiva), are taken up in the proximal part of the gastrointestinal tract without reaching the intestines. Strictly enteral administration (directly into the intestines) can be used for systemic administration, as well as local (sometimes termed topical), such as in a contrast enema, whereby contrast media are infused into the intestines for imaging. However, for the purposes of classification based on location of effects, the term enteral is reserved for substances with systemic effects.
+Enteral administration feeding through a post-pyloric feeding tube is used when patients are unable to feed or swallow by themselves because of illness, incapacitation or pathology. Feeding through a post-pyloric feeding tube results in 30% less aspiration and nutrition through a post pyloric feeding tube was found to be superior to gastric feeding. According to ASPEN, the optimal way to place a post-pyloric feeding tube is by using a magnetically guided feeding tube placement device. One example could be ENvue, an electromagnetic feeding tube placement system with integrated navigation sensors and body mapping, allowing safe post-pyloric feeding tube placement.
+Many drugs as tablets, capsules, or drops are taken orally. Administration methods directly into the stomach include those by gastric feeding tube or gastrostomy. Substances may also be placed into the small intestines, as with a duodenal feeding tube and enteral nutrition. Enteric coated tablets are designed to dissolve in the intestine, not the stomach, because the drug present in the tablet causes irritation in the stomach.
+
+The rectal route is an effective route of administration for many medications, especially those used at the end of life. The walls of the rectum absorb many medications quickly and effectively. Medications delivered to the distal one-third of the rectum at least partially avoid the "first pass effect" through the liver, which allows for greater bio-availability of many medications than that of the oral route. Rectal mucosa is highly vascularized tissue that allows for rapid and effective absorption of medications. A suppository is a solid dosage form that fits for rectal administration. In hospice care, a specialized rectal catheter, designed to provide comfortable and discreet administration of ongoing medications provides a practical way to deliver and retain liquid formulations in the distal rectum, giving health practitioners a way to leverage the established benefits of rectal administration. The Murphy drip is an example of rectal infusion.
+
+Parenteral route
+The parenteral route is any route that is not enteral (par- + enteral).
+Parenteral administration can be performed by injection, that is, using a needle (usually a hypodermic needle) and a syringe, or by the insertion of an indwelling catheter.
+Locations of application of parenteral administration include:
+
+Central nervous system:Epidural (synonym: peridural) (injection or infusion into the epidural space), e.g. epidural anesthesia.
+Intracerebral (into the cerebrum) administration by direct injection into the brain. Used in experimental research of chemicals and as a treatment for malignancies of the brain. The intracerebral route can also interrupt the blood brain barrier from holding up against subsequent routes.
+Intracerebroventricular (into the cerebral ventricles) administration into the ventricular system of the brain. One use is as a last line of opioid treatment for terminal cancer patients with intractable cancer pain.Epicutaneous (application onto the skin). It can be used both for local effect as in allergy testing and typical local anesthesia, as well as systemic effects when the active substance diffuses through skin in a transdermal route.
+Sublingual and buccal medication administration is a way of giving someone medicine orally (by mouth). Sublingual administration is when medication is placed under the tongue to be absorbed by the body. The word "sublingual" means "under the tongue." Buccal administration involves placement of the drug between the gums and the cheek. These medications can come in the form of tablets, films, or sprays. Many drugs are designed for sublingual administration, including cardiovascular drugs, steroids, barbiturates, opioid analgesics with poor gastrointestinal bioavailability, enzymes and, increasingly, vitamins and minerals.
+Extra-amniotic administration, between the endometrium and fetal membranes.
+Nasal administration (through the nose) can be used for topically acting substances, as well as for insufflation of e.g. decongestant nasal sprays to be taken up along the respiratory tract. Such substances are also called inhalational, e.g. inhalational anesthetics.
+Intra-arterial (into an artery), e.g. vasodilator drugs in the treatment of vasospasm and thrombolytic drugs for treatment of embolism.
+Intra-articular, into a joint space. It is generally performed by joint injection. It is mainly used for symptomatic relief in osteoarthritis.
+Intracardiac (into the heart), e.g. adrenaline during cardiopulmonary resuscitation (no longer commonly performed).
+Intracavernous injection, an injection into the base of the penis.
+Intradermal, (into the skin itself) is used for skin testing some allergens, and also for mantoux test for tuberculosis.
+Intralesional (into a skin lesion), is used for local skin lesions, e.g. acne medication.
+Intramuscular (into a muscle), e.g. many vaccines, antibiotics, and long-term psychoactive agents. Recreationally the colloquial term 'muscling' is used.Intraocular, into the eye, e.g., some medications for glaucoma or eye neoplasms.
+Intraosseous infusion (into the bone marrow) is, in effect, an indirect intravenous access because the bone marrow drains directly into the venous system. This route is occasionally used for drugs and fluids in emergency medicine and pediatrics when intravenous access is difficult.
+Intraperitoneal, (infusion or injection into the peritoneum) e.g. peritoneal dialysis.
+Intrathecal (into the spinal canal) is most commonly used for spinal anesthesia and chemotherapy.
+Intrauterine.
+Intravaginal administration, in the vagina.
+Intravenous (into a vein), e.g. many drugs, total parenteral nutrition.
+Intravesical infusion is into the urinary bladder.
+Intravitreal, through the eye.
+Subcutaneous (under the skin). This generally takes the form of subcutaneous injection, e.g. with insulin. Skin popping is a slang term that includes subcutaneous injection, and is usually used in association with recreational drugs. In addition to injection, it is also possible to slowly infuse fluids subcutaneously in the form of hypodermoclysis.
+Transdermal (diffusion through the intact skin for systemic rather than topical distribution), e.g. transdermal patches such as fentanyl in pain therapy, nicotine patches for treatment of addiction and nitroglycerine for treatment of angina pectoris.
+Perivascular administration (perivascular medical devices and perivascular drug delivery systems are conceived for local application around a blood vessel during open vascular surgery).
+Transmucosal (diffusion through a mucous membrane), e.g. insufflation (snorting) of cocaine, sublingual, i.e. under the tongue, sublabial, i.e. between the lips and gingiva, nitroglycerine, vaginal suppositories.
+
+Topical route
+The definition of the topical route of administration sometimes states that both the application location and the pharmacodynamic effect thereof is local.In other cases, topical is defined as applied to a localized area of the body or to the surface of a body part regardless of the location of the effect. By this definition, topical administration also includes transdermal application, where the substance is administered onto the skin but is absorbed into the body to attain systemic distribution.
+If defined strictly as having local effect, the topical route of administration can also include enteral administration of medications that are poorly absorbable by the gastrointestinal tract. One such medication is the antibiotic vancomycin, which cannot be absorbed in the gastrointestinal tract and is used orally only as a treatment for Clostridium difficile colitis.
+
+Choice of routes
+The reason for choice of routes of drug administration are governing by various factors:
+
+Physical and chemical properties of the drug. The physical properties are solid, liquid and gas. The chemical properties are solubility, stability, pH, irritancy etc.
+Site of desired action: the action may be localised and approachable or generalised and not approachable.
+Rate of extent of absorption of the drug from different routes.
+Effect of digestive juices and the first pass metabolism of drugs.
+Condition of the patient.In acute situations, in emergency medicine and intensive care medicine, drugs are most often given intravenously. This is the most reliable route, as in acutely ill patients the absorption of substances from the tissues and from the digestive tract can often be unpredictable due to altered blood flow or bowel motility.
+
+Convenience
+Enteral routes are generally the most convenient for the patient, as no punctures or sterile procedures are necessary. Enteral medications are therefore often preferred in the treatment of chronic disease. However, some drugs can not be used enterally because their absorption in the digestive tract is low or unpredictable. Transdermal administration is a comfortable alternative; there are, however, only a few drug preparations that are suitable for transdermal administration.
+
+Desired target effect
+Identical drugs can produce different results depending on the route of administration. For example, some drugs are not significantly absorbed into the bloodstream from the gastrointestinal tract and their action after enteral administration is therefore different from that after parenteral administration. This can be illustrated by the action of naloxone (Narcan), an antagonist of opiates such as morphine. Naloxone counteracts opiate action in the central nervous system when given intravenously and is therefore used in the treatment of opiate overdose. The same drug, when swallowed, acts exclusively on the bowels; it is here used to treat constipation under opiate pain therapy and does not affect the pain-reducing effect of the opiate.
+
+Oral
+The oral route is generally the most convenient and costs the least. However, some drugs can cause gastrointestinal tract irritation. For drugs that come in delayed release or time-release formulations, breaking the tablets or capsules can lead to more rapid delivery of the drug than intended. The oral route is limited to formulations containing small molecules only while biopharmaceuticals (usually proteins) would be  digested in the stomach and thereby become ineffective. Biopharmaceuticals have to be given by injection or infusion. However, recent research found various ways to improve oral bioavailability of these drugs. In particular permeation enhancers, ionic liquids, lipid-based nanocarriers, enzyme inhibitors and microneedles have shown potential.
+Oral administration is often denoted "PO" from "per os", the Latin for "by mouth".
+The bioavailability of oral administration is affected by the amount of drug that is absorbed across the intestinal epithelium and first-pass metabolism.
+
+Local
+By delivering drugs almost directly to the site of action, the risk of systemic side effects is reduced.Skin absorption (dermal absorption), for example, is to directly deliver drug to the skin and, hopefully, to the systemic circulation. However, skin irritation may result, and for some forms such as creams or lotions, the dosage is difficult to control. Upon contact with the skin, the drug penetrates into the dead stratum corneum and can afterwards reach the viable epidermis, the dermis, and the blood vessels.
+
+Mouth inhalation
+Inhaled medications can be absorbed quickly and act both locally and systemically. Proper technique with inhaler devices is necessary to achieve the correct dose. Some medications can have an unpleasant taste or irritate the mouth.In general, only 20–50% of the pulmonary-delivered dose rendered in powdery particles will be deposited in the lung upon mouth inhalation. The remainder of 50-70% undeposited aerosolized particles are cleared out of lung as soon as exhalation.An inhaled powdery particle that is >8 μm is structurally predisposed to depositing in the central and conducting airways (conducting zone) by inertial impaction.An inhaled powdery particle that is between 3 and 8 μm in diameter tend to largely deposit in the transitional zones of the lung by sedimentation.An inhaled powdery particle that is <3 μm in diameter is structurally predisposed to depositing primarily in the respiratory regions of the peripheral lung via diffusion.Particles that deposit in the upper and central airways are generally absorbed systemically to great extent because they are only partially removed by mucociliary clearance, which results in orally mediated absorption when the transported mucous is swallowed, and first pass metabolism or incomplete absorption through loss at the fecal route can sometimes reduce the bioavailability. This should in no way suggest to clinicians or researchers that inhaled particles are not a greater threat than swallowed particles, it merely signifies that a combination of both methods may occur with some particles, no matter the size of or lipo/hydrophilicity of the different particle surfaces.
+
+Nasal inhalation
+Inhalation by nose of a substance is almost identical to oral inhalation, except that some of the drug is absorbed intranasally instead of in the oral cavity before entering the airways. Both methods can result in varying levels of the substance to be deposited in their respective initial cavities, and the level of mucous in either of these cavities will reflect the amount of substance swallowed. The rate of inhalation will usually determine the amount of the substance which enters the lungs. Faster inhalation results in more rapid absorption because more substance finds the lungs. Substances in a form that resists absorption in the lung will likely resist absorption in the nasal passage, and the oral cavity, and are often even more resistant to absorption after they fail absorption in the former cavities and are swallowed.
+
+Parenteral
+The term parenteral is from para-1 'beside' + Greek enteron 'intestine' + -al. This name is due to the fact that it encompasses a route of administration that is not intestinal. However, in common English the term has mostly been used to describe the four most well-known routes of injection.
+
+The term injection encompasses intravenous (IV), intramuscular (IM), subcutaneous (SC) and intradermal (ID) administration.Parenteral administration generally acts more rapidly than topical or enteral administration, with onset of action often occurring in 15–30 seconds for IV, 10–20 minutes for IM and 15–30 minutes for SC. They also have essentially 100% bioavailability and can be used for drugs that are poorly absorbed or ineffective when they are given orally. Some medications, such as certain antipsychotics, can be administered as long-acting intramuscular injections. The practice is often carried out through physical force in company of law-enforcement, and often against the will of the patient. However, all doses of long-acting antipsychotics injections are of at extreme risk to the health and well-being of the patient. Extreme ethical concerns should be considered. If the choice is made to use force, care should be taken to use only the smallest dose that is currently scientifically demonstrated to be efficacious for the specific drug. This is because, despite being injected, the drugs are designed with heavy esterifying molecular additions which can cause traces of the drugs to be found in circulation for up to one year. Ongoing IV infusions can be used to deliver continuous medication or fluids.Disadvantages of injections include potential pain or discomfort for the patient and the requirement of trained staff using aseptic techniques for administration. However, in some cases, patients are taught to self-inject, such as SC injection of insulin in patients with insulin-dependent diabetes mellitus. As the drug is delivered to the site of action extremely rapidly with IV injection, there is a risk of overdose if the dose has been calculated incorrectly, and there is an increased risk of side effects if the drug is administered too rapidly.
+
+Intranasal
+Drug administration via the nasal cavity yields rapid drug absorption and therapeutic effects. This is because drug absorption through the nasal passages does not go through the gut before entering capillaries situated at tissue cells and then systemic circulation and such absorption route allows transport of drugs into the central nervous system via the pathways of olfactory and trigeminal nerve.Intranasal absorption features low lipophilicity, enzymatic degradation within the nasal cavity, large molecular size, and rapid mucociliary clearance from the nasal passages, which explains the low risk of systemic exposure of the administered drug absorbed via intranasal.
+
+Sublingual
+Sublingual administration is fulfilled by placing the drug between the tongue and the lower surface of the mouth. The sublingual mucosa is highly permeable and thereby provides access to the underlying expansive network composed of capillaries, leading to rapid drug absorption.
+
+Buccal
+Buccally administered medication is achieved by placing the drug between gums and the inner lining of the cheek.  In comparison with sublingual tissue, buccal tissue is less permeable resulting in slower absorption.
+
+Sublabial administration
+Sublabial administration
+
+Research
+Neural drug delivery is the next step beyond the basic addition of growth factors to nerve guidance conduits. Drug delivery systems allow the rate of growth factor release to be regulated over time, which is critical for creating an environment more closely representative of in vivo development environments.
+
+See also
+ADME
+Catheter
+Dosage form
+Drug injection
+Ear instillation
+Hypodermic needle
+Intravenous marijuana syndrome
+List of medical inhalants
+Nanomedicine
+Absorption (pharmacology)
+
+References
+External links
+The 10th US-Japan Symposium on Drug Delivery Systems
+FDA Center for Drug Evaluation and Research Data Standards Manual: Route of Administration.
+FDA Center for Drug Evaluation and Research Data Standards Manual: Dosage Form.
+A.S.P.E.N. American Society for Parenteral and Enteral Nutrition
+As Drug+Administration+Routes at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

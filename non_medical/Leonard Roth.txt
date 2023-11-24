@@ -1,0 +1,15 @@
+Leonard Roth
+
+Leonard Roth (29 August 1904 Edmonton, London, England – 28 November 1968 Pittsburgh, Pennsylvania) was a mathematician working in the Italian school of algebraic geometry. He introduced an example of a unirational variety that was not rational (though his proof that it was not rational was incomplete).
+Roth was educated at Latymer Upper School, Dulwich College and Clare College, Cambridge, where he graduated as a Wrangler in 1926. His sister was Queenie Roth, literary critic and wife of F. R. Leavis.
+
+Publications
+Levy, H.; Roth, L. (1936), Elements of probability, The Clarendon press
+Roth, L. (1949), Modern elementary geometry, Modern Elementary Geometry, Thomas Nelson and Sons Ltd.
+Roth, L. (1955), Algebraic threefolds, with special regard to problems of rationality, Ergebnisse der Mathematik und ihrer Grenzgebiete (N.F.), Heft 6, Berlin, New York: Springer-Verlag, MR 0076426
+Semple, J. G.; Roth, L. (1985), Introduction to algebraic geometry, Oxford Science Publications, The Clarendon Press Oxford University Press, MR 0814690
+
+References
+Further reading
+Segre, Beniamino (1976), "Leonard Roth", The Bulletin of the London Mathematical Society, 8 (2): 194–202, doi:10.1112/blms/8.2.194, ISSN 0024-6093, MR 0398747
+Togliatti, E. (1970), "Leonard Roth", Bollettino dell'Unione Matematica Italiana (4), 3: 326–332, MR 0260551

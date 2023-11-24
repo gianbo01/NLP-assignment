@@ -1,0 +1,25 @@
+Powder mixture
+
+A powder is an assembly of dry particles dispersed in air. If two different powders are mixed perfectly, theoretically, three types of powder mixtures can be obtained: the random mixture, the ordered mixture or the interactive mixture.
+
+Different powder types
+A powder is called free-flowing if the particles do not stick together. If particles are cohesive, they cling to one another to form aggregates. The significance of cohesion increases with decreasing size of the powder particles; particles smaller than 100 µm are generally cohesive.
+
+Random mixture
+A random mixture can be obtained if two different free-flowing powders of approximately the same particle size, density and shape are mixed (see figure A). Only primary particles are present in this type of mixture, i.e., the particles are not cohesive and do not cling to one another. The mixing time will determine the quality of the random mixture. However, if powders with particles of different size, density or shape are mixed, segregation can occur. Segregation will cause separation of the powders as, for example, lighter particles will be prone to travel to the top of the mixture whereas heavier particles are kept at the bottom.
+
+Ordered mixture
+The term ordered mixture was first introduced to describe a completely homogeneous mixture where the two components adhere to each other to form ordered units. However, a completely homogeneous mixture is only achievable in theory and other denotations were introduced later such as adhesive mixture or interactive mixture.
+
+Interactive mixture
+If a free-flowing powder is mixed with a cohesive powder an interactive mixture can be obtained. The cohesive particles adhere to the free-flowing particles (now called carrier particles) to form interactive units as shown in figure B. An interactive mixture may not contain free aggregates of the cohesive powder, which means that all small particles must be adhered to the larger ones. The difference from an ordered mixture is instead that all carrier particles do not need to be of the same size and a different number of small particles attached to each one. A narrow size range of the carrier particles is preferred to avoid segregation of the interactive units. In practice a combination of a random mixture and an interactive mixture may be obtained which consists of carrier particles, aggregates of the small particles and interactive units.
+
+Formation
+The formation of interactive mixtures cannot automatically be assumed, especially if smaller carrier particles  or a greater proportion of fine particles  are used. If an interactive mixture is to be formed, it is necessary that enough force is exerted by the carrier particles during dry mixing to break up the aggregates formed by the fine particles. Adhesion can then be achieved if the adhesive forces exceed the gravitational forces that otherwise lead to separation of the constituents.
+
+Applications
+Interactive mixtures for example can be used in the manufacturing of tablets enhancing the dissolution of poorly soluble drugs  or for nasal administration. One common application is for inhalation therapy, where the concept has been used in the development of alternatives to pressurised metered dose inhalers.The quality by design initiative (QbD) of the U.S. Food and Drug Administration requires a process to be controllable and predictable. Theories and methods to characterize powder mixture have facilitated the implementation of QbD approaches to predict flow properties of powder mixture. For example, QbD approach is shown to be useful for predicting flow performance and finding design space during formulation development.The schematic formation of a random mixture (A) and an interactive mixture (B) by dry mixing two powder materials.
+
+References
+External links
+Improving Powder Flow During Pharmaceutical Operations, an Rx Times article

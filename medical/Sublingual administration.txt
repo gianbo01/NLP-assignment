@@ -1,0 +1,39 @@
+Sublingual administration
+
+Sublingual (abbreviated SL), from the Latin for "under the tongue", refers to the pharmacological route of administration by which substances diffuse into the blood through tissues under the tongue.Many drugs are absorbed through sublingual administration, including cardiovascular drugs, steroids, barbiturates, benzodiazepines, opioid analgesics, THC, CBD, some proteins and increasingly, vitamins and minerals.
+
+Principle
+When a chemical comes in contact with the mucous membrane beneath the tongue, it is absorbed.  Because the connective tissue beneath the epithelium contains a profusion of capillaries, the substance then diffuses into them and enters the venous circulation.  In contrast, substances absorbed in the intestines are subject to first-pass metabolism in the liver before entering the general circulation.
+Sublingual administration has certain advantages over oral administration.  Being more direct, it is often faster onset of action, and it ensures that the substance will risk degradation only by salivary enzymes before entering the bloodstream, whereas orally administered drugs must survive passage through the hostile environment of the gastrointestinal tract, which risks degrading them, by either stomach acid or bile, or by enzymes such as monoamine oxidase (MAO).  Furthermore, after absorption from the gastrointestinal tract, such drugs must pass to the liver, where they may be extensively altered; this is known as the first pass effect of drug metabolism.  Due to the digestive activity of the stomach and intestines, the oral route is unsuitable for certain substances, such as salvinorin A.
+
+Forms
+Pharmaceutical preparations for sublingual administration are manufactured in the form of:
+
+Sublingual tablets—tablets which easily melt in the mouth, dissolve rapidly and with little or no residue.  Nitroglycerine tablets are an example, the anti-emetic ondansetron is another.
+Sublingual strips—similar to tablets in that they easily melt in the mouth and dissolve rapidly. Suboxone is an example of medication that comes in a sublingual strip.
+Multi-purpose tablets—Soluble tablets for either oral or sublingual (or buccal) administration, often also suitable for preparation of injections, Hydrostat (hydromorphone) and a number of brands of morphine tablets and cubes.
+Sublingual drops—a concentrated solution to be dropped under the tongue, as with some nicocodeine cough preparations,
+Sublingual spray—spray for the tongue; certain human and veterinary drugs are dispensed as such.
+Lozenge—effects a metred and patient-controlled-rate combination of sublingual, buccal, and oral administration, as with the Actiq fentanyl.
+Effervescent buccal or sublingual tablets—this method drives the drug through the mucous membranes much faster (this is the case in the stomach with carbonated or effervescent liquids as well) and is used in the Fentora fentanyl buccal tablet.
+
+Substance
+Almost any form of substance may be amenable to sublingual administration if it dissolves easily in saliva.  Powders and aerosols may all take advantage of this method.  However, a number of factors, such as pH, molecular weight, and lipid solubility, may determine whether the route is practical.  Based on these properties, a suitably soluble drug may diffuse too slowly through the mucosa to be effective.  However, many drugs are much more potent taken sublingually, and it is generally a safer alternative than administration via the nasal mucosa.  This method is also extensively used by people administering certain psychoactive drugs.  One drawback, however, is tooth discoloration and decay caused by long-term use of this method with acidic or otherwise caustic drugs and fillers.
+
+Psychoactives
+In addition to salvinorin A, other psychoactives may also be applied sublingually.  LSD, MDMA, morphine, alprazolam, clonazepam, diazepam, and many other substances including the psychedelic tryptamines and phenethylamines, and even recreational cannabis edibles (THC) are all viable candidates for administration via this route.  Most often, the drug in question is powdered and placed in the mouth (often directly under the tongue).  If held there long enough, the drug will diffuse into the blood stream, bypassing the GI tract.  This may be a preferred method to simple oral administration, because MAO is known to oxidize many drugs (especially the tryptamines such as DMT) and because this route translates the chemical directly to the brain, where most psychoactives act.  The method is limited by excessive salivation washing the chemical down the throat.  Also, many alkaloids have an unpleasant taste which makes them difficult to hold in the mouth.  Tablets of psychoactive pharmaceuticals usually include bitter chemicals such as denatonium in order to discourage abuse and also to discourage children from eating them.
+
+Allergens
+Allergens may also be applied under the tongue as a part of allergen immunotherapy.
+
+Therapeutic peptides and proteins
+A relatively new way of administration of therapeutic peptides and proteins (such as cytokines, domain antibodies, Fab fragments or single chain antibodies)  is sublingual administration.  Peptides and proteins are not stable in the gastro-intestinal tract, mainly due to degradation by enzymes and pH differences.  As a consequence, most peptides (such as insulin, exenatide, vasopressin, etc.) or proteins (such as interferon, EPO and interleukins) have to be administered by injection. Recently, new technologies have allowed sublingual administration of such molecules.  Increased efforts are underway to deliver macromolecules (peptides, proteins and immunotherapies)  by sublingual route, by companies such as Novo Nordisk, Sanofi and BioLingus.
+Sublingual delivery may be particularly effective for immuno-active medicines, due to the presence of immune-receptor cells close to the sublingual area.
+
+Vaccines
+The sublingual route may also be used for vaccines against various infectious diseases. Thus, preclinical studies have found that sublingual vaccines can be highly immunogenic and may protect against influenza virus
+and Helicobacter pylori, but sublingual administration may also be used for vaccines against other infectious diseases.
+
+Footnotes
+External links
+Sublingual+Drug+Administration at the U.S. National Library of Medicine Medical Subject Headings (MeSH)

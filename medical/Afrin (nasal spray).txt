@@ -1,0 +1,38 @@
+Afrin (nasal spray)
+
+Oxymetazoline, sold under the brand name Afrin among others, is a topical decongestant and vasoconstrictor medication. It is available over-the-counter as a nasal spray to treat nasal congestion and nosebleeds, as eyedrops to treat eye redness due to minor irritation, and (in the United States) as a prescription topical cream to treat persistent facial redness due to rosacea in adults. Its effects begin within minutes and last for up to six hours. Intranasal use for longer than three days may cause congestion to recur or worsen, resulting in physical dependence.
+Oxymetazoline is a derivative of imidazole. It was developed from xylometazoline at Merck by Wolfgang Fruhstorfer and Helmut Müller-Calgan in 1961. A direct sympathomimetic, oxymetazoline binds to and activates α1 adrenergic receptors and α2 adrenergic receptors, most notably. One study classified it in the following order: α(2A) > α(1A) ≥ α(2B) > α(1D) ≥ α(2C) >> α(1B), but this is not universally agreed upon. There is little consistency across the (relatively large) number of in-vitro studies with respect to binding affinity/selectivity.
+
+Medical uses
+Oxymetazoline is available over-the-counter as a topical decongestant in the form of oxymetazoline hydrochloride in nasal sprays.In the United States, oxymetazoline 1% cream is approved by the Food and Drug Administration for topical treatment of persistent facial erythema (redness) associated with rosacea in adults.Due to its vasoconstricting properties, oxymetazoline is also used to treat nose bleeds and eye redness due to minor irritation (marketed as Visine L.R. in the form of eye drops). In July 2020, oxymetazoline received approval by the FDA for the treatment of acquired drooping eyelid.
+
+Side effects
+Rebound congestion
+Rebound congestion, or rhinitis medicamentosa, may occur. A 2006 review of the pathology of rhinitis medicamentosa concluded that use of oxymetazoline for more than three days may result in rhinitis medicamentosa and recommended limiting use to three days.
+
+Australian regulatory submission
+In a submission to the Therapeutic Goods Administration, a Novartis representative concluded, "The justification was not based on evidence." Citing an existing extensive body of evidence and noting a range of recommended periods from five to ten days, Novartis recommended the established five day period for its use for self-medication without medical consultation as it coincides with the typical duration of the common cold.
+
+Use in pregnancy
+The Food and Drug Administration places oxymetazoline in category C, indicating risk to the fetus cannot be ruled out.  While it has been shown that a single dose does not significantly alter either maternal or fetal circulation, this subject has not been studied extensively enough to draw reliable conclusions.
+
+Overdose
+If accidentally ingested, standard methods to remove unabsorbed drugs should be considered. There is no specific antidote for oxymetazoline, although its pharmacological effects may be reversed by an adrenergic antagonists such as phentolamine. In the event of a possibly life-threatening overdose (such as a hypertensive crisis), benzodiazepines should be considered to decrease the likelihood of seizures and convulsions, as well as reduce anxiety and to lower blood pressure. In children, oxymetazoline may produce profound central nervous system depression due to stimulation of central α2 receptors and imidazoline receptors, much like clonidine.
+
+Pharmacology
+Pharmacodynamics
+Oxymetazoline is a sympathomimetic that selectively agonizes α1 and, partially, α2 adrenergic receptors. Since vascular beds widely express α1 receptors, the action of oxymetazoline results in vasoconstriction. In addition, the local application of the drug also results in vasoconstriction due to its action on endothelial postsynaptic α2 receptors; systemic application of α2 agonists, in contrast, causes vasodilation because of centrally-mediated inhibition of sympathetic tone via presynaptic α2 receptors. Vasoconstriction of vessels results in relief of nasal congestion in two ways: first, it increases the diameter of the airway lumen; second, it reduces fluid exudation from postcapillary venules. It can reduce nasal airway resistance (NAR) up to 35.7% and reduce nasal mucosal blood flow up to 50%.
+
+Pharmacokinetics
+Since imidazolines are sympathomimetic agents, their primary effects appear on α adrenergic receptors, with little if any effect on β adrenergic receptors. Like other imidazolines, Oxymetazoline is readily absorbed orally. Effects on α receptors from systemically absorbed oxymetazoline hydrochloride may persist for up to 7 hours after a single dose. The elimination half-life in humans is 5–8 hours. It is excreted unchanged both by the kidneys (30%) and in feces (10%).
+
+History
+The oxymetazoline brand Afrin was first sold as a prescription medication in 1966. After finding substantial early success as a prescription medication, it became available as an over-the-counter drug in 1975. Schering-Plough did not engage in heavy advertising until 1986.
+
+Society and culture
+Brand names
+Brand names include Afrin, Dristan, Drixine, Drixoral, Nasivin, Nasivion, Nezeril, Nostrilla, Logicin, Vicks Sinex, Visine L.R., Sudafed OM, Otrivin Oxy, SinuFrin, Upneeq, and Mucinex Sinus-Max.
+
+References
+External links
+"Oxymetazoline". Drug Information Portal. U.S. National Library of Medicine.

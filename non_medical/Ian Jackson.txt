@@ -1,0 +1,12 @@
+Ian Jackson
+
+Ian Jackson is a longtime free software author and Debian developer. Jackson wrote dpkg (replacing a more primitive Perl tool with the same name), SAUCE (Software Against Unsolicited Commercial Email), userv and debbugs. He used to maintain the Linux FAQ. He runs chiark.greenend.org.uk, a Linux system which is home to PuTTY among other things.
+Jackson has a PhD in Computer Science from Cambridge University. As of October 2021, he works for the Tor Project. He has previously worked for Citrix  for Canonical Ltd. and nCipher Corporation.Jackson became Debian Project Leader in January 1998, before Wichert Akkerman took his place in 1999. Debian GNU/Linux 2.0 (hamm) was released during his term. During that time he was also a vice-president and then president of Software in the Public Interest in 1998 and 1999.
+Jackson was a member of the Debian Technical Committee until November 2014 when he resigned as a result of controversies around the proposed use of systemd in Debian.
+
+Additional works
+authbind (1998), an Open-source system utility
+
+References
+External links
+Ian's home page

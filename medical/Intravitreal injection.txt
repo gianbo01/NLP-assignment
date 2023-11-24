@@ -1,0 +1,97 @@
+Intravitreal injection
+
+Intravitreal injection is the method of administration of drugs into the eye by injection with a fine needle. The medication will be directly applied into the vitreous humor. It is used to treat various eye diseases, such as age-related macular degeneration (AMD), diabetic retinopathy, and infections inside the eye such as endophthalmitis. As compared to topical administration, this method is beneficial for a more localized delivery of medications to the targeted site, as the needle can directly pass through the anatomical eye barrier (e.g. cornea, conjunctiva and lens) and dynamic barrier (e.g. tears and aqueous humor). It could also minimize adverse drug effects on other body tissues via the systemic circulation, which could be a possible risk for intravenous injection of medications. Although there are risks of infections or other complications, with suitable precautions throughout the injection process, chances for these complications could be lowered.
+
+History
+Intravitreal injection was first mentioned in a study in 1911, in which the injection of air was used to repair a detached retina. There were also investigations evaluating intravitreal antibiotics injection using sulfanilamide and penicillin to treat endophthalmitis in the 1940s, yet due to the inconsistency of results and safety concerns, this form of drug delivery was only for experimental use and not applied in patients. It was until 1998, that fomivirsen (Vitravene™), the first intravitreal administered medication, was approved by the U.S. Food and Drug Administration (FDA).In 2004, when Aiello et al. published the first guidelines for intravitreal injection in the journal 'Retina', fomivirsen was still the only medication licensed by the FDA for intravitreal injection. At the end of the year, on December 17, the first intravitreal anti-VEGF drug pegaptanib (Macugen) was also licensed by FDA for treatment of wet age-related macular degeneration (wet AMD).Intravitreal injection has then become more common and a surge in the number of injections performed could be seen. Six extra medications, namely triamcinolone acetonide, ranibizumab (Lucentis), aflibercept (Eylea/Zaltrap), dexamethasone, ocriplasmin and fluocinolone acetonide were approved for this injection by the end of 2014. There are also increasing off-label use of bevacizumab (Avastin) for the management of various ophthalmologic diseases, like AMD, retinal vein occlusion and diabetic macular edema. On top of that, the number of intravitreal injections has escalated from less than 3000 per year in 1999, to an estimation of near 6 million in 2016.
+
+Applications
+Intravitreal injection is used to inject a drug into the eye to reduce inflammation (anti-inflammatory), inhibit the growth and development of new blood vessels (angiostatic), or lower the permeability of blood vessels (anti-permeability), in turn curing various eye diseases.Disorders/diseases that can be treated with intravitreal injection include:
+
+Age-related macular degeneration (AMD)/ Macular Degeneration: An eye disorder that slowly destroys sharp, central vision
+Uveitis: Swelling and inflammation within the eyeball
+Retinal vein occlusion: A blockage of the veins that carry blood away from the retina, the back part of your eye, and out of the eye
+Macular edema: Swelling or thickening of the macula (the central area of the retina that provides sharp, central vision) due to abnormal fluid accumulationDiabetic Macular Edema: Poorly controlled diabetes mellitus could lead to diabetic retinopathy, i.e. damages to the retina. The damage to the small blood vessels there causes leakage of fluid 
+Pseudophakic cystoid macular edema
+Macular edema secondary to retinal vein occlusion 
+Macular edema secondary to uveitis 
+Infections, such as endophthalmitis and retinitis
+Noninfectious vitritisSometimes, an intravitreal injection of antibiotics and steroids is given as part of routine cataract surgery. This avoids having to use drops after surgery.
+
+Common medications used in injection
+Antimicrobials
+Antimicrobials are intravitreally injected to treat eye infections, such as endophthalmitis and retinitis. The medication used depends on the pathogen responsible for the disease.
+
+Antibiotics
+This type of drug targets on bacterial infection. The first use of intravitreal antibiotics was dated back to experiments in the 1940s, in which penicillin and sulfonamides were used to treat the rabbit endophthalmitis models. Later, more studies proved the beneficial effects of intravitreal antibiotics on acute postoperative endophthalmitis. In the 1970s, Peyman's research on the suggested doses for the medications was published. Intravitreal antibiotics then has gradually become the major treatment to manage bacterial endophthalmitis. Some common antibiotics administered nowadays are vancomycin (for Gram-positive bacteria) and ceftazidime (for Gram-negative bacteria).The dosage of antibiotics injected intravitreally is usually low to avoid possible retina toxicity. Some alternative antibiotics have also been tested to replace those that have a higher risk of causing macular toxicity (e.g. aminoglycosides). In light of the raised occurrence of antibiotics resistance, the medications should be chosen and evaluated with the support of bacterial culture and antibiotics sensitivity test results. Sometimes, combinations of different antibiotics may be needed to treat polymicrobial infections (infections that are caused by more than one type of microorganisms), or as an empirical treatment.Antibiotics, such as moxifloxacin, vancomycin, etc., are used perioperatively and postoperatively as a common method of endophthalmitis prevention in cataract surgery. Researches show such injection of antibiotics is more useful to prevent infection as compared to chemoprophylaxis(chemoprevention) given topically. However, it has recently been controversial whether it has sufficient efficacy for endophthalmitis prophylaxis, and whether it improves the effectiveness in preventing endophthalmitis by perioperative povidone-iodine when used in combination with the antiseptic.
+
+Antifungals
+If the endophthalmitis is suspected to be a fungal infection, antifungals, such as amphotericin B and voriconazole, could be intravitreally injected to treat the disease. Although amphotericin B has a broad spectrum, voriconazole is more commonly used now as it has a higher efficacy and lower toxicity.
+
+Antivirals
+Since the 1990s, intravitreal antivirals have been used to treat cytomegalovirus retinitis (CMV retinitis) in immunodeficient patients, such as AIDS patients. Some medications that could be used include ganciclovir, foscarnet, and cidofovir. The amount and frequency of the intravitreal agent injected varies among the drug chosen: for example, foscarnet has to be given more frequently than ganciclovir as it has a shorter intravitreal half-life. If the traditional antiviral therapy fails, a combination of these two medications may be injected. On the other hand, antiviral drugs could also be administered for patients with acute retinal necrosis due to varicella-zoster virus retinitis.
+
+Anti-VEGF drugs
+Vascular endothelial growth factor (VEGF) is a type of protein the body cells produce to stimulate the growth of new blood vessels. Anti-VEGF agents are chemicals that could inhibit these growth factors to reduce or prevent the abnormal growth of blood vessels, which could lead to damage to the eye and vision.Anti-VEGF drugs are often injected to reduce the swelling or bleeding of the retina, which can be used to treat wet age-related macular degeneration (AMD), macular oedema (which could be diabetic), diabetic retinopathy, retinal vein occlusion, etc.Some common anti-VEGF drugs are bevacizumab (Avastin), ranibizumab (Lucentis) and aflibercept (Eylea/Zaltrap).
+
+Corticosteroids
+The primary use of the corticosteroids is to reduce the inflammation by inhibiting the inflammatory cytokines. It could be used to treat numerous eye disorders, such as diabetic retinopathy and retinal vein occlusion.Below are some examples of this type of medication:
+
+Triamcinolone acetonide
+Triamcinolone acetonide is one of the most commonly used steroid agents for the treatment of several retinal conditions. The drug is often seen as an ester in commercial drugs and appears as a white- to cream-colored crystalline powder. It is much more soluble in alcohol than in water, which could be the reason for its longer duration of action (around 3 months after 4 mg intravitreal injection of the drug). The drug is also 5 times more potent than hydrocortisone while only has a tenth of its sodium-retaining potency.It has proven to be effective for the management of abnormal endothelial cell proliferation-associated disorders, and the accumulation of intraretinal and subretinal fluid.
+
+Dexamethasone
+Dexamethasone is a potent cytokine inhibitor that is naturally released from human pericytes. It is shown to be able to significantly decrease intercellular adhesion molecule-1 mRNA and protein levels and therefore reduce leukostasis and help maintain the blood-retinal-barrier. Its potency is 5 times greater than triamcinolone acetonide. Due to its relatively short half-life, the medication is often given as an intravitreal implant for a continuous and stable release to the target site. Some newly developed dexamethasone implants, such as Ozurdex, are made from biodegradable materials that could be intravitreally injected rather than surgically implanted.This corticosteroid is usually used to treat disorders and diseases including macular edema secondary to retinal vein occlusion, pseudophakic cystoid macular edema, macular edema secondary to uveitis, diabetic macular edema, and age-related macular degeneration.
+
+Fluocinolone acetonide
+Fluocinolone acetonide is a synthetic corticosteroid as potent as dexamethasone, but with a much lower water solubility, which could be accounted for the extended period of release from the intravitreal implant injected. It was also proven to have a localized effect in the posterior segment of the eye and is not absorbed into the systemic circulation, thus less likely to give rise to systemic adverse effect.The medication could be used in treatment for noninfectious posterior uveitis and diabetic macular edema, while applications in the management of other ophthalmic diseases are still under research.
+
+Injection site
+The injection is usually done at the inferotemporal quadrant (i.e. the lower quadrant away from the nose) of the eye undergoing the procedure, as it is usually more accessible. However, depending on the eye's condition, patient's and the ophthalmologist's preference, other regions could also be used.Patient with aphakic (without lens due to cataract surgery), or pseudophakic eye (with implanted lens after removal of natural lens) would have the injection 3.0-3.5 mm posterior to the limbus, while injection to the phakic eye (with natural lens) is done 3.5-4.0 mm posterior to the limbus.
+
+Procedures
+Location
+Like many injections, intravitreal injection is commonly performed in the office setting. An operation room may be a better option to provide a more sterile environment for the procedure to lower the chance of infections, yet it will also increase the costs. Since the occurrence of serious post-injection infection (e.g. endophthalmitis) is low, in-office intravitreal injection is preferred.
+
+Steps
+The exact procedures and techniques of the intravitreal injection varies among different guidelines, and may depend on the practices of the person performing the injection. Below is an example of the steps for the injection:
+The patient usually leans back on the chair (in supine position), in which the headrest is stable and the patient is comfortable. Sterile drape is sometimes used to cover the face of the patient and only show the eye for the injection.The specialist first applies anesthetics to the eye and eyelid to numb the area, so that the patient will not feel the pain during the procedure. The type of anesthetic used depends on the practitioner practices and the patient's history. Some common forms of anesthetic used are eye drops (e.g. tetracaine/proparacaine) or gel (e.g. lidocaine 2% or 4% jelly), which is applied topically. Other choices of anesthesia include the use of lidocaine soaked pledget (a small cotton or wool pad) and subconjunctival injection (injection under the conjunctiva) of anesthetic agents. However, the latter may cause a raised chance of subconjunctival hemorrhage. Sometimes, for an eye with inflammation, a retrobulbar block may be given, but usually the topical or subconjunctival anesthesia is sufficient. The anesthetic takes time to show the numbing effect, ranging from 1–5 minutes, depending on the chemical chosen.The specialist then sterilizes the eye and the surrounding area, often with povidone-iodine (PVP-I) solution, to prevent any infection in the injected site. Aqueous chlorhexidine is used instead in case of adverse effects to povidone-iodine.Next, an eyelid speculum is placed to retract the eyelids and thus hold the eye open. It helps to prevent contamination of the needle and the injection site by the eyelid or eyelashes. Povidone-iodine solution is applied to the conjunctiva at the site of injection. Another dose of local anesthetic may be given to the conjunctival surface again (for example, by placing a cotton swab soaked with the anesthetic drug solution over the targeted region), which is followed by the reapplication of PVP-I solution.The injection site is measured and marked with a measuring caliper or other devices. The patient is then told to look away from the injection site to show the quadrant to be injected, and the doctor inserts the needle at the target site in a single motion into the mid-vitreous cavity. Once the needle is in the vitreous cavity, the doctor pushes the plunger to release the drug into the cavity. After that, the needle is removed, and the injection site is immediately covered with a cotton swab to avoid vitreous reflux (reflux of fluid from the vitreous cavity). The excess PVP-I solution is rinsed away.Finally, the doctor checks the patient's vision and intraocular pressure (IOP) of the eye. The injection of certain medications, such as triamcinolone acetonide (Kenalog or Triesence), may cause a sudden increase in the IOP, and the patient should be monitored until the pressure returns to a normal level. If a large volume of drug is injected, paracentesis may be required.
+
+Possible risks and complications
+Side effects of intravitreal injection can be classified into two categories: drug-related side effects and injection-related side effects. For example, in an intravitreal steroid injection, complications could be divided into steroid-related adverse effects and injection-related adverse effects, in which the former most commonly include cataract formation and increase in intraocular pressure (IOP).Other examples of potential adverse effects are listed as follows:
+
+Discomfort and pain in the injection sites
+Bleeding (e.g. subconjunctival, vitreous or retinal hemorrhage)
+Vitreous reflux (the reflux of fluid from the vitreous cavity, which contains a mixture of vitreous humor and the drug administered)
+Floaters (black/grey spots, small shapes or string in vision)
+Infectious endophthalmitis
+Pseudoendophthalmitis
+Ocular hypertension, i.e. increase in intraocular pressure (IOP)
+Cataract (when the needle accidentally hits the lens), or other damage to lens
+Rhegmatogenous retinal detachment
+Toxic effects of medicationA surgery may be required to treat certain severe complications. Some of the above complications could also lead to blindness, or even loss of the eye (in the case of a severe infection).
+
+Precautions
+Precautions should be taken before, during, and after the injection to lower the chances of complications:
+
+Pre-treatment
+Topical antiseptic is important to prevent potential bacterial infection. Common antiseptics used include povidone-iodine (reducing the risk of endophthalmitis) and chlorhexidine (predominantly to counter-act adverse effects caused by povidone-iodine in the aqueous form).
+Pre-injection antibiotics might be given to prevent potential bacterial infection.
+Hand sterilization to eradicate microorganisms on the hands of the physician prior to the injection.
+Sterile gloves should be used.
+Collection of comprehensive information of the patient on health problems, allergies, bleeding tendencies, and medicines taken (including any over-the-counter medicines) to avoid related complications.
+
+During the injection
+Masks, drapes, and silence (i.e. both the ophthalmologist should not talk), to minimize aerosolization via respiratory droplets.
+
+Post-treatment
+Post-injection antibiotics could be given to prevent potential bacterial infection, but is not included in the standard procedures of intravitreal injection. Some studies show that it has no statistically significant benefit in preventing endophthalmitis, whereas other studies indicate that it can increase conjunctival bacterial resistance.
+Rubbing of eyes and swimming should be avoided for days after intravitreal injection.
+Eye pain or discomfort, redness, light sensitivity and changes in vision should be reported to intravitreal injection providers.
+
+See also
+Ophthalmology
+Eye surgery
+
+
+== References ==

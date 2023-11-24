@@ -1,0 +1,73 @@
+Total intravenous anaesthesia
+
+Total intravenous anesthesia (TIVA) refers to the intravenous administration of anesthetic agents to induce a temporary loss of sensation or awareness. The first study of TIVA was done in 1872 using chloral hydrate, and the common anesthetic agent propofol was licensed in 1986. TIVA is currently employed in various procedures as an alternative technique of general anesthesia in order to improve post-operative recovery.
+TIVA is maintained by intravenous infusion devices and assisted by electroencephalography (EEG) monitoring. These techniques facilitate the use of propofol, etomidate, ketamine, and other intravenous anesthetic agents. During or after TIVA, patients may be subjected to an elevated risk of anesthesia awareness, hyperalgesia and neurotoxicity. Considering these risks, special consideration is given to obese, elderly and pediatric patients.
+
+History
+In the mid-19th century, specific equipment was developed to enable intravenous anesthesia. Francis Rynd developed the hollow needle in 1845, and Charles Gabriel Pravaz developed the syringe in 1853, which allowed drugs to be administered intravenously.
+Using this new mode of delivery, many chemical compounds were tested as intravenous anesthetics. This was pioneered by Pierre-Cyprian Ore in 1872, who reported using chloral hydrate as an intravenous anesthetic. However, these early trials were associated with high mortality. Hedonal was later developed in 1909 for general anesthesia, although with limited success due to its long duration of effect. These insufficiencies encouraged the development of paraldehyde by Noel & Souttar, magnesium sulfate by Peck & Meltzer as well as ethanol by Nakagawa as intravenous anesthetic agents.
+Propofol (di-isopropyl phenol) was synthesized by Glen and colleagues in the early 1970s, but its first formulations were temporarily withdrawn due to a number of adverse reactions during clinical studies. In 1983, a lipid emulsion formulation of propofol was available, which carried great potential during clinical trials. It was licensed for use in Europe in 1986 and received FDA approval in the US in 1989. Propofol is now used worldwide with a well-defined pharmacological profile for a variety of medical uses.
+
+Medical uses
+TIVA is used to induce general anesthesia while avoiding the disadvantages of volatile anesthesia (and traditional inhalation agents). Intravenous anesthetic agents are titrated at safe doses to maintain stage III surgical anesthesia (unconsciousness, amnesia, immobility, and absence of response to noxious stimulation). The use of TIVA is advantageous in cases where volatile anesthesia is of high risk or is impossible, such as cases involving morbidly obese patients. TIVA has also been used for anesthetic delivery at sites of trauma such as serious accidents, disasters and wars.The overall goals of TIVA include:
+Smooth induction of anesthesia
+Reliable and measurable maintenance of anesthesia
+Rapid emergence out of the effects of infused drugs as soon as the infusion is terminated.Propofol-based TIVA significantly improves post-operative recovery profile and comfort, minimizes nausea and vomiting, facilitates rapid recovery, greater hemodynamic stability, preservation of hypoxic pulmonary vasoconstriction, reduction in intracerebral pressure, and reduces the risk of organ toxicity. Despite these advantages, it accounts for a small proportion of general anesthetics due to the relatively expensive cost of preparation and maintenance.
+
+Techniques
+Dosing considerations
+The doses for intravenous sedative-hypnotic and adjuvant agents vary individually. Pharmacodynamic and pharmacokinetic factors need to be considered for each patient (e.g. patients with impaired kidney or liver function, blood abnormalities and myocardial dysfunction, etc.) There are also risks of adverse effects related to doses such as hypotension and respiratory depression. In terms of adjuvant agents, the co-administration of anesthetic drugs from different classes often produce synergistic hypnotic effects. This is especially common for agents acting on gamma-aminobutyric acid (GABA) receptors that are combined with drugs acting on different types of receptors.The drug interactions between sedative-hypnotic agents and adjuvant agents suggest that dosing regimens cannot be fixed. Instead, dosing should be based on adjusted body weight or estimated lean body weight, especially for obese patients. It is recommended that drug doses be titrated in brief intervals (around 20 to 60 seconds).
+
+Equipment
+The delivery of intravenous anesthetics is dependent on different types of infusion devices. Examples of infusion devices include smart pumps, syringe pumps and target-controlled infusion (TCI) devices.Smart pumps are commonly used to administer potent anesthetics and various vasoactive drugs such as vasopressors, inotropes, vasodilators, which need to be continuously titrated in the operating room. Smart pumps are advantageous since they administer safe doses with a programmed infusion rate within pre-existing limits based on the institutional standardized medication library.Syringe pumps are smaller infusion pumps that allow the administration of small amounts of induction agents at a precise rate. The accuracy of syringe pumps is dependent on the selection of syringes during pump programming. Most pumps are able to identify the size of the syringe automatically when the syringe manufacturer's name is input correctly.Target-controlled infusion (TCI) systems are assisted by computer systems that make use of pharmacokinetic and pharmacodynamic modelling to maintain a target concentration of anesthetic in the brain. TCI requires clinicians to input a target concentration for an anesthetic or other agents, and the computer will calculate the amount of agent required for the input concentration, then the infusion pump will be used to deliver the calculated bolus dose. Subsequently, the computer continuously recalculates how much drug is in the system and influences the amount of drug required to maintain the desired concentration at the effect site.
+
+Maintenance
+During TIVA, the continuous assessment of heart rate, blood pressure, and state of consciousness is essential when titrating anesthetic agents. Processed electroencephalogram (EEG) monitoring is used to assess anesthetic depth. However, there are 30 seconds of lag time between the subject's state of consciousness and the processed EEG signal. This limits its usefulness during the induction of anesthesia.
+
+Intravenous agents
+Propofol, etomidate and ketamine are common intravenous sedative-hypnotic agents for the induction of TIVA. Their highly lipophilic nature allows the rapid onset of anesthesia upon intravenous injection. It also enables penetration through the blood–brain barrier and effective perfusion to the brain. However, the rapid redistribution of these agents from the brain to other muscle and fat tissues causes it to have a short duration of action. Adjuvant agents are typically administered in addition to sedative-hypnotic agents to supplement the induction of TIVA.
+
+Sedative-hypnotic agents
+Propofol
+Propofol is usually the selected sedative-hypnotic agent to maintain general anesthesia through TIVA because of its rapid onset and offset, beneficial properties and few adverse effects. Its rapid onset of action is due to its high lipid-solubility, rapid redistribution from the brain to other parts of the body, and rapid clearance (20 to 30 mL/kg/minute). Most propofol is conjugated in the liver with pharmacologically inactive metabolites. Although it has a long terminal elimination half-life of 4 to 30 hours, plasma concentrations remain low after the typical induction dose.Its advantages include “antiemetic, antipruritic, bronchodilatory, and anticonvulsant properties”, which makes it suitable for patients with kidney or liver insufficiency. Potential adverse effects of propofol include hypotension and respiratory depression caused by inadequate dosing, pain on injection, and risk of contamination.
+
+Etomidate
+Etomidate is suitable for patients with hemodynamic instability since it does not compromise blood pressure, cardiac output, or heart rate. Its advantages include anticonvulsant properties and hemodynamic stability.  Potential adverse effects include a higher incidence of postoperative nausea and vomiting, transient acute adrenal insufficiency, pain during injection, involuntary myoclonic movements, absence of analgesic effects and mild increases in airway resistance.
+
+Ketamine
+Ketamine is suitable for hypotensive patients, or patients with risks of developing hypotension (e.g. those who have hypovolemia, hemorrhage, sepsis or severe cardiovascular compromise). This is because ketamine is associated with increased blood pressure, heart rate and cardiac output. Its advantages include profound analgesic properties, bronchodilation, and the ability to maintain airway reflexes and respiratory drive. It could also be induced via the intramuscular route if TIVA access gets lost. However, its potential adverse effects impact cardiovascular and neurological functions.
+Potential adverse effects on cardiovascular activities are listed below:
+Increase in myocardial oxygen demand due to a rise in heart rate, blood pressure and cardiac output
+Increase in pulmonary arterial pressure, which could be fatal in patients with ischemic heart disease, systemic or pulmonary hypertension
+Increase in the toxicity of cocaine and tricyclic antidepressants on cardiovascular structures
+Exacerbates hypertension, tachycardia arrhythmia in pheochromocytoma
+Though rare, direct mild myocardial depressant effectsPotential adverse effects on neurological activities are listed below:
+Higher incidence of psychotomimetic effects
+Increase in cerebral blood flow and intracranial pressure, which may increase the cerebral metabolic rate of oxygen
+Unique EEG effects might lead to misinterpretation of processed EEG values
+
+Adjuvant agents
+Opioid, lidocaine and midazolam are adjuvant agents frequently administered to minimize pain during the injection of the induction agents. They are also used to lessen the sympathetic stress response, cough reflex during laryngoscopy or intubation, and supplement sedation by synergistic effects. The dose of sedative-hypnotic agents should be reduced due to the synergistic effects when combined with adjuvant agents.Choice of specific adjuvant agents is dependent upon the patient and procedure-specific factors. Opioid is a commonly administered adjuvant agent as the analgesic component of TIVA. However, when used with propofol, it might exacerbate the adverse hypotensive effects. Other potential adverse effects include respiratory depression, bradycardia, delirium and potential for acute tolerance.
+
+Risks and complications
+Accidental awareness during general anesthesia (AAGA)
+Patients under TIVA have a higher risk of AAGA. Unlike inhaled anesthetic agents, intravenous agents do not have an indicative end-tidal anesthetic concentration (ETAC) for the monitoring of administered drugs, so the determination of successful delivery is usually left to the anesthetist's clinical judgment.The high incidence of AAGA with TIVA can be attributed to several factors. Firstly, the target concentration of anesthetic agents required to maintain unresponsiveness is not well understood. Although there have been studies aiming to establish the target concentration of propofol, there is a high degree of variability with the established dosing range. Secondly, intravenous delivery may be impaired by lax monitoring of the intravenous catheter and the insertion site. Thirdly, the use of neuromuscular blockades is a risk factor of AAGA and also hinders communication of distress in the case of accidental awareness.
+
+Opioid-induced hyperalgesia
+TIVA techniques which involve the continued administration of opioids (E.g. Remifentanil) at high doses can cause opioid-induced hyperalgesia. This may lead to difficult postoperative pain control, as patients with hyperalgesia experience increased chronic pain and require more analgesics following surgery.
+
+Neurotoxicity
+Prolonged anesthetic exposure can result in the death of neural cells and defective synaptogenesis, caused by increased expression of neurologically harmful substances. The resulting neurologic injuries may lead to a persistent subtle decline of cognitive abilities, especially in elderly or very young patients. Animal studies suggest that propofol may have similar neurotoxic properties as it is associated with apoptotic degeneration of oligodendrocytes.
+
+Special populations
+Obese patients
+Obese patients present technical and physiological challenges to TIVA. Physical tasks such as surgical positioning, intravenous insertion and ventilation are complicated by excess fat. Associated physiological and pharmacological changes include higher susceptibility to hypoxemia, decrease in resting metabolic rate and lower cardiac output per kg body weight. The use of dosing models derived from non-obese patients is therefore unsuitable for obese patients.Even within the obese population, the large variability between individuals limits the accuracy of pharmacokinetic models in predicting and informing anesthetic titration.
+
+Pediatrics
+Infants differ from adults in the consideration of pharmacokinetics, pharmacodynamics and side effects. In terms of pharmacokinetics, protein binding, organ function and body composition are significantly different. Pharmacodynamic effects such as the capacity of target organs to respond to drugs are also changed. Based on this knowledge, doses are adjusted to achieve optimal clinical response and avoid toxicity in pediatric patients. Generally, clearance (drug elimination from the body) is greater in children due to the nonlinear scaling between body size and function.
+
+Elderly patients
+Aging is associated with an increase in fat and a reduction in lean body mass and total body water. These factors increase the volume of distribution of lipid-soluble drugs, lower their plasma concentration and delay elimination. Aged patients typically have a higher sensitivity to drug action due to a reduction in the initial drug clearance, resulting in higher plasma concentration and hence greater initial drug effect.
+
+
+== References ==

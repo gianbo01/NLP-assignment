@@ -1,0 +1,10 @@
+Y-Set (intravenous therapy)
+
+In intravenous therapy a Y-Set, T-Set and V-Sets are Y, T and V shaped three-way connector sets made of connecting plastic tubes used for delivering intravenous drugs into the body from multiple fluid sources. As Y-Sets are the most common shaped sets, Y-Set is a name that is sometimes used to represent the family of connector sets (sometimes called Y-tubes). The majority of these infusion sets have a left and right hand line that deliver fluid and drugs (often via a valve) to a short common limb attached to the female fitting on the intravenous cannulae.
+
+Applications
+3-way connectors allow for "piggybacking", that is, putting a second infusion set onto the same line, such as adding a dose of antibiotics to a continuous volume expander drip, with the etymology being to refer to the second infusion as "riding on the back" of the first one. 
+Most 3+ way connectors can be opened to allow an infusion limb and a vertical limb to deliver fluid via a common limb to the female fitting of an IV cannulae. V shaped fittings allow multiple limbs to flow directly to the patient with no common space. As different tubes for these infusion sets usually have different flow rates and fluid delivered from different tubes, there is a risk that the common space (dead volume) of Y-Sets and T-Sets fills with high concentration drugs and accidentally gets flushed out at a high flow rate.
+
+
+== References ==

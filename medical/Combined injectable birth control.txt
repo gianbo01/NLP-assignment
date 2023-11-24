@@ -1,0 +1,61 @@
+Combined injectable birth control
+
+Combined injectable contraceptives (CICs) are a form of hormonal birth control for women. They consist of monthly injections of combined formulations containing an estrogen and a progestin to prevent pregnancy.
+CICs are different from progestogen-only injectable contraceptives (POICs), such as depot medroxyprogesterone acetate (DMPA; brand names Depo-Provera, Depo-SubQ Provera 104) and norethisterone enantate (NETE; brand name Noristerat), which are not combined with an estrogen and are given once every two to three months instead of once a month.Hormonal contraception works primarily by preventing ovulation, but it may also thicken the cervical mucus inhibiting sperm penetration. Hormonal contraceptives also have effects on the endometrium, that theoretically could affect implantation.
+
+Medical uses
+CICs are administered by intramuscular injection into the deltoid, gluteus maximus, or anterior thigh. They are ideally administered every 28 to 30 days, though they have been demonstrated to be effective up to 33 days.Some CICs have been said to be used by transgender women as a means of feminizing hormone therapy as well.
+
+Available forms
+A variety of different CICs, generally containing a short-acting natural estradiol ester and a long-acting progestin ester, are available for clinical use. Estrogens that are used include estradiol valerate, estradiol cypionate, estradiol enantate, estradiol benzoate butyrate, and estradiol, while progestins that are used include norethisterone enantate, medroxyprogesterone acetate, algestone acetophenide (dihydroxyprogesterone acetophenide), hydroxyprogesterone caproate, and megestrol acetate. Estradiol benzoate has a duration that is too short for once-monthly CICs, and is not used in them. Conversely, estradiol enantate is said to have a duration that is too long for once-monthly CICs, but is nonetheless used in them.
+
+Side effects
+Side effects of CICs, besides menstrual bleeding changes, are minimal. The most prominent side effects of CICs are menstrual irregularities during the first 3 to 6 months of use. Dysmenorrhea has been reported in 30 to 65% of women. Other side effects include breast tenderness/pain, headache, and libido changes. Some fluid retention can occur, but weight gain is minimal. Local injection site reactions have also been reported in 15 to 35% of women.Effects of CICs on coagulation and fibrinolysis are minimal and are not thought to be clinically relevant. Conversely, combined oral contraceptive pills containing ethinylestradiol have considerable effects on coagulation and fibrinolysis. The differences can be attributed to the lack of the first-pass effect with parenteral administration as well as structural and pharmacological differences between estradiol and ethinylestradiol.
+
+Pharmacology
+CICs contain an estrogen and a progestin. The estrogen is generally a short-acting estradiol ester, which acts as a prodrug of estradiol. Esters of estradiol are natural and bioidentical estrogens, and are believed to have more favorable effects on lipid metabolism, cardiovascular health, and hemostasis than synthetic estrogens such as ethinylestradiol. The progestin is a long-acting progestogen ester, which may or may not act as a prodrug. Progesterone derivatives including medroxyprogesterone acetate, algestone acetophenide (dihydroxyprogesterone acetophenide), hydroxyprogesterone caproate, and megestrol acetate are active themselves and are not prodrugs, whereas the testosterone derivative norethisterone enantate is a prodrug of norethisterone. Regardless of whether they are prodrugs or not, steroid esters form a depot and have an extended duration of action due to a depot effect when administered by intramuscular or subcutaneous injection.
+Because CICs are administered parenterally, they bypass the first-pass effect in the liver and intestines that occurs with oral administration of estrogens. However, is estimated that about 20% of an administered dose does still eventually pass through the liver. Hence, these preparations are not completely liver-neutral. Nonetheless, they have dramatically reduced hepatic effects relative to oral ethinylestradiol. In addition, parenteral estradiol in general has about 4- or 5-fold reduced potency in the liver than oral estradiol.
+CICs have antigonadotropic effects via their estrogenic and progestogenic activity and inhibit fertility and suppress sex hormone levels. A single intramuscular injection of estradiol valerate/norethisterone enanthate (5 mg/50 mg) (Mesigyna) has been found to strongly suppress testosterone levels in men. Testosterone levels decreased from a baseline of ~503 ng/dL to a trough of ~30 ng/dL (a 94% decrease) which occurred at day 7 post-injection.
+
+History
+The first CIC to be studied was estradiol valerate/hydroxyprogesterone caproate (EV/OHPC) in 1963, and the second CIC to be studied was estradiol enantate/algestone acetophenide (E2-EN/DHPA) in 1964. In 1967, E2-EN/DHPA was in the late stages of clinical development. By 1969, the medication was available for medical use under the brand name Perlutal. Within a few years, it was marketed under other brand names such as Topasel and Ova-Repos as well. In addition, several other CICs had been introduced for medical use by 1972. By 1976, two major CICs were in use: E2-EN/DHPA (brand names Perlutan, Topasel) in Spain and Latin America, and EV/OHPC (brand name Injectable No. 1) in China. These CICs have been described as first-generation CICs. Two second-generation CICs, estradiol cypionate/medroxyprogesterone acetate (EC/MPA; brand names Cyclofem and later Lunelle) and estradiol valerate/norethisterone enantate (EV/NETE; brand name Mesigyna), were introduced for clinical use in 1993. On 5 October 2000, Pharmacia received FDA approval for Lunelle Monthly Contraceptive Injection. In April 2003, Pharmacia was acquired by Pfizer (makers of depot medroxyprogesterone acetate). In October 2003, Lunelle was discontinued in the United States.
+
+Society and culture
+Availability
+CICs are available in many countries throughout the world, including widely throughout Central and South America, in Mexico and the Caribbean, in China, in several Southeast Asian and African countries, and in Turkey. They were also previously available in the United States, Portugal, and Spain, but have been discontinued in these countries.
+
+Research
+Many other CICs have been studied but have not been approved or marketed for clinical use.The following are marketed CICs at different doses than those that are approved:
+
+Estradiol valerate 2.5 to 5 mg + norethisterone enantate 50 to 80 mg in an oil solution
+Estradiol valerate 10 mg + hydroxyprogesterone caproate 500 mg in an oil solution
+Estradiol cypionate 2.5 to 10 mg + medroxyprogesterone acetate 12.5 to 50 mg in a microcrystalline aqueous suspension
+Estradiol enantate 5 to 50 mg + algestone acetophenide 75 to 200 mg in an oil solutionThe half-progestin-dose formulation of estradiol valerate/norethisterone enantate (5 mg / 25 mg) is also known as HRP-103 and the half-progestin-dose formulation of estradiol cypionate/medroxyprogesterone acetate (5 mg / 12.5 mg) is also known as HRP-113.The following are CICs that have never been marketed:
+
+Estradiol valerate 20 mg + medroxyprogesterone acetate 100 mg in a microcrystalline aqueous suspension
+Estradiol undecylate 5 to 10 mg + norethisterone enantate 50 to 70 mg in an oil solution
+Estradiol cypionate + norethisterone enantate
+Estradiol valerate 10 mg + methenmadinone caproate 60 mg (Lutofollin)
+Estradiol hexahydrobenzoate 5 mg (oil solution) + norgestrel 25 mg (aqueous suspension)
+Estradiol cypionate 3.5 to 5 mg + megestrol acetate 25 mg in a microcrystalline aqueous suspension (marketed in China?)
+Estradiol valerate 3 to 5 mg + chlormadinone caproate 80 mg in an oil solution
+Estradiol valerate 5 mg + megestrol acetate 15 mg in an aqueous suspension of gelatin microspheres (50–80 μm)
+Estradiol 5 mg + levonorgestrel 7 mg in an aqueous suspension of monolithic microspheres (80 μm) or in a macrocrystalline suspension (15 μm)
+Estradiol cypionate 5 mg + levonorgestrel butanoate 7 mg in an aqueous suspension
+Estradiol benzoate 5 to 10 mg + norethisterone enanthate 50 to 100 mg
+Mestranol 1.0–1.2 mg + norethisterone 10–12 mg in a microcrystalline aqueous suspension of defined particle sizes (125–177 μm)
+Ethinylestradiol + norethisterone
+Estradiol 5 mg and progesterone 100 to 300 mg in an aqueous suspension of monolithic microspheres or in a macrocrystalline suspension
+Polyestradiol phosphate 40 mg + medroxyprogesterone acetate 150 mg
+
+See also
+Special Programme on Human Reproduction
+Concept Foundation
+Extended cycle combined hormonal contraceptive
+Reproductive Health Supplies Coalition
+Estradiol-containing oral contraceptive
+
+References
+Further reading
+Garza-Flores J (April 1994). "Pharmacokinetics of once-a-month injectable contraceptives". Contraception. 49 (4): 347–59. doi:10.1016/0010-7824(94)90032-9. PMID 8013219.
+Sang GW (April 1994). "Pharmacodynamic effects of once-a-month combined injectable contraceptives". Contraception. 49 (4): 361–85. doi:10.1016/0010-7824(94)90033-7. PMID 8013220.
